@@ -1,481 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08051A,50:4B267A,100:C58BE8&height=220&section=header&text=ADITI%20BHAGAT&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
-
-# ✦ Aditi Bhagat ✦
-
-### `Developer` · `Problem Solver` · `AI/ML Enthusiast` · `Dreamer`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=ADITI%20BHAGAT&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=a%20small%20galaxy%20of%20things%20I%27ve%20built%20%E2%9C%A6&descAlignY=58&descSize=18&color=0:03051A,25:100B2E,50:24104F,75:3B1D63,100:08051C" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=650&lines=Exploring+the+universe+of+technology+%E2%9C%A6;Building+ideas+into+meaningful+code+%E2%98%BE;Learning.+Building.+Experimenting.+%E2%9C%A8;One+project+at+a+time+%F0%9F%8C%8C" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3000&pause=1200&color=C9B6FF&center=true&vCenter=true&width=650&lines=welcome+to+my+little+corner+of+the+galaxy+%E2%9C%A6;where+ideas+turn+into+repositories+%F0%9F%8C%99;where+repositories+turn+into+little+worlds+%F0%9F%AA%90" />
+
+<br><br>
+
+<a href="https://github.com/aditi-0926">
+<img src="https://img.shields.io/badge/ENTER%20THE%20GALAXY-17102F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 🌙 a little note from earth
+
+*I'm Aditi — a Computer Science student who likes building things,
+breaking things, learning things, and occasionally wondering why the code worked.*
+
+<br>
+
+**This page is mostly about the things I've built.**
+
+</div>
+
+<br>
+
+---
+
+# 🌌 THE GALAXY
+
+<div align="center">
+
+### *every repository is a little world.*
+
+✦     ✧     ⋆     ✦     ☄️     ✧     🪐     ✦
+
+<br>
+
+The planets below are **automatically generated from my GitHub repositories**.
+
+<br>
+
+*new repository → new planet*
+*updated repository → planet moves*
+*deleted repository → disappears into the void*
+
+</div>
+
+<br>
+
+<!-- REPOSITORIES:START -->
+
+<div align="center">
+
+🌙
+
+**the observatory is waking up...**
+
+*waiting for the first signal from the repository galaxy*
+
+</div>
+
+<!-- REPOSITORIES:END -->
+
+<br>
+
+---
+
+# 🔭 RECENT SIGNALS
+
+<div align="center">
+
+*The newest activity detected from my repository universe.*
+
+</div>
+
+<br>
+
+<!-- RECENT:START -->
+
+<div align="center">
+
+✦ scanning the stars...
+
+</div>
+
+<!-- RECENT:END -->
+
+---
+
+<div align="center">
+
+### 🛰️ want to explore further?
+
+<br>
+
+<a href="https://github.com/aditi-0926?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW%20THE%20FULL%20CONSTELLATION-251447?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/aditi-0926?tab=stars">
+
+<img src="https://img.shields.io/badge/STARRED%20UNIVERSE-17102F?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
+
+</a>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## ✦ transmission channel ✦
 
 <br>
 
 <a href="https://github.com/aditi-0926">
-<img src="https://img.shields.io/badge/GitHub-aditi--0926-18122B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6B3FA0?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌌 Welcome to my little corner of the universe
-
-*Turning ideas into meaningful code, one project at a time.*
-
-✦　☾　✧　✦　✧　☽　✦
-
-</div>
-
----
-
-## ☾ About Me
-
-<table>
-<tr>
-<td width="55%">
-
-### Hi, I'm Aditi 👋
-
-I'm a developer who enjoys exploring the intersection of **technology, artificial intelligence, data and problem solving**.
-
-I like taking an idea, experimenting with it, and turning it into something practical.
-
-My GitHub is a collection of that journey — projects, experiments, learning, and solutions.
-
-### ✦ What I enjoy
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 📊 Data Analytics
-* 💻 Software Development
-* 🧩 Data Structures & Algorithms
-* 🌐 Web Development
-* 🔍 Exploring new technologies
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditi-0926&show_icons=true&hide_border=true&bg_color=00000000&title_color=D8B4FE&icon_color=F4B8E9&text_color=C8C0FF&ring_color=D8B4FE"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# ✦ My GitHub Universe
-
-<div align="center">
-
-<a href="https://github.com/aditi-0926?tab=repositories">
-
-<img src="https://img.shields.io/badge/Repositories-Explore%20the%20Galaxy-6B3FA0?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
  
 
-<a href="https://github.com/aditi-0926">
-
-<img src="https://img.shields.io/badge/Profile-aditi--0926-18122B?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🌙
-
-### Projects
-
-**Building & experimenting**
-
-</td>
-
-<td align="center" width="33%">
-
-### ✦
-
-### Learning
-
-**Always exploring**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀
-
-### Creating
-
-**One idea at a time**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# ✨ Featured Repositories
-
-<div align="center">
-
-### ✦ Projects drifting through my galaxy ✦
-
-</div>
-
-<!-- GALAXY:START -->
-
-<div align="center">
-
-### ✦ Projects drifting through my galaxy ✦
-
-</div>
-
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🐍 [aditi-0926](https://github.com/aditi-0926/aditi-0926)
-
-A project exploring technology, creativity and problem solving.
-
-**`Python`**
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🐍 [sentiment-service](https://github.com/aditi-0926/sentiment-service)
-
-A project exploring technology, creativity and problem solving.
-
-**`Python`**
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 📓 [house-price-prediction-system](https://github.com/aditi-0926/house-price-prediction-system)
-
-End-to-End House Price Prediction using ZenML, MLflow, Scikit-Learn and Streamlit
-
-**`Jupyter Notebook`**
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🐍 [AI-Resume-Screening-System](https://github.com/aditi-0926/AI-Resume-Screening-System)
-
-AI-powered Resume Screening and Job Description Matching System using NLP, spaCy, TF-IDF, Cosine Similarity, and Streamlit.
-
-**`Python`**
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🐍 [reddit-sentiment-analytics](https://github.com/aditi-0926/reddit-sentiment-analytics)
-
-Reddit r/India sentiment & engagement analytics using MongoDB Atlas and Power BI
-
-**`Python`**
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 📓 [Customer-Behavior-Analysis](https://github.com/aditi-0926/Customer-Behavior-Analysis)
-
-Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
-
-**`Jupyter Notebook`**
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-
-</tr>
-</table>
-
-
-<div align="center">
-
-<sub>
-🌌 Automatically synchronized with GitHub · Updated 2026-08-25 17:53 UTC
-</sub>
-
-</div>
-
-<!-- GALAXY:END -->
-
----
-
-# 🌙 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,sql&theme=dark"/>
-
-<br><br>
-
-### AI · Data · Development
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,mongodb,git,github&theme=dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Python` · `C++` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL`
-
-`Machine Learning` · `Artificial Intelligence` · `Data Analytics`
-
-`TensorFlow` · `Scikit-Learn` · `MongoDB` · `Git` · `GitHub`
-
-</div>
-
----
-
-# ☄️ Currently Exploring
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🤖 Artificial Intelligence
-
-Exploring intelligent systems and AI-powered applications.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🧠 Machine Learning
-
-Learning how data can be transformed into useful predictions.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 📊 Data Analytics
-
-Finding patterns and insights hidden inside data.
-
-</td>
-
-<td width="50%" align="center">
-
-### 💻 Software Development
-
-Building practical applications and solving real problems.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# ✧ GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=aditi-0926&show_icons=true&hide_border=true&bg_color=00000000&title_color=D8B4FE&icon_color=F4B8E9&text_color=C8C0FF&rank_icon=github"
-width="48%"
-/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-0926&theme=transparent&hide_border=true&ring=D8B4FE&fire=F4B8E9&currStreakLabel=D8B4FE&sideLabels=C8C0FF&dates=8F849E"
-width="48%"
-/>
-
-</div>
-
----
-
-# 🌌 Contribution Galaxy
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=aditi-0926&bg_color=00000000&color=D8B4FE&line=A978FF&point=F4B8E9&area=true&hide_border=true"
-width="95%"
-/>
-
-</div>
-
----
-
-# ☾ My Developer Philosophy
-
-<div align="center">
-
-> ### *"The best way to predict the future is to create it."*
-
-<br>
-
-**Learn. Build. Break. Improve. Repeat.**
-
-<br>
-
-✦　✧　☾　✧　✦　✧　☽　✧　✦
-
-</div>
-
----
-
-# 🚀 What You'll Find Here
-
-```text
-                    ✦
-                   / \
-                  /   \
-                 / AI  \
-                /       \
-           ✦───/─────────\───✦
-             /             \
-            /   PROJECTS    \
-           /                 \
-          /___________________\
-                 │     │
-                 │     │
-              DATA   CODE
-                 │     │
-                 └──┬──┘
-                    │
-                    ☾
-
-          Welcome to my universe.
-```
-
-<div align="center">
-
-| 🌌                  | ✦                                          |
-| ------------------- | ------------------------------------------ |
-| **Projects**        | Experiments, applications & ideas          |
-| **Learning**        | New technologies & concepts                |
-| **Problem Solving** | DSA & programming challenges               |
-| **AI / ML**         | Intelligent systems & data-driven projects |
-
-</div>
-
----
-
-# ✦ Let's Connect
-
-<div align="center">
-
-### Have an idea, project or interesting problem?
-
-### Let's build something together. 🚀
-
-<br>
-
-<a href="https://github.com/aditi-0926">
-
-<img src="https://img.shields.io/badge/GitHub-aditi--0926-18122B?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
 <a href="https://www.linkedin.com/">
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6B3FA0?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-17113B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
-</div>
+ 
 
----
+<a href="mailto:YOUR_EMAIL@gmail.com">
 
-<div align="center">
-
-## ✦ Keep exploring. Keep creating. ✦
-
-☾　✧　🌌　✦　🌙　✦　🌌　✧　☽
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=aditi-0926&label=Visitors&color=6B3FA0&style=flat-square"/>
+<img src="https://img.shields.io/badge/Email-30205C?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
 
 <br><br>
 
-**Crafted with 💜 and lots of ☕**
+`✦ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ✦`
+
+<br>
+
+### 🌙 thanks for stopping by
+
+*keep exploring · keep building · keep wondering*
 
 </div>
 
@@ -483,6 +164,6 @@ width="95%"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C58BE8,50:6B3FA0,100:08051A&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:08051C,25:3B1D63,50:24104F,75:100B2E,100:03051A" width="100%"/>
 
 </div>
