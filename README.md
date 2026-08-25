@@ -54,8 +54,6 @@ Currently somewhere in orbit around:
 
 `🗄️ Databases`
 
-`☁️ Cloud`
-
 `🌌 Big Data`
 
 </div>
@@ -110,14 +108,6 @@ Currently somewhere in orbit around:
 ### 🗄️
 
 **Databases**
-
-</td>
-
-<td align="center">
-
-### ☁️
-
-**Cloud**
 
 </td>
 
@@ -228,7 +218,7 @@ The planets below are automatically generated from my GitHub repositories.
 # 🌙 currently learning
 
 <div align="center">
-text
+  
                  ✦
               .     .
            .           .
