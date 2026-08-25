@@ -255,13 +255,12 @@ or simply exchange interesting ideas:
 
 <br> <a href="https://github.com/aditi-0926"> <img src="https://img.shields.io/badge/Explore%20my%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/Find%20me%20on%20LinkedIn-24104F?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Send%20a%20Signal-4B3B73?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-<br><br>
+
 
 ✦ ───────────── ⋆｡°✩°｡⋆ ───────────── ✦
 
-<br>
 🌌 thanks for visiting my little corner of the galaxy
 
 stay curious · keep exploring · build something meaningful
 
-</div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:51417A,45:30205C,75:17113B,100:070B1F&height=130&section=footer"/> </div> ```
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:51417A,45:30205C,75:17113B,100:070B1F&height=130&section=footer"/> </div> ```
