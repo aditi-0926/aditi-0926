@@ -1,22 +1,27 @@
-name: 🌌 Update GitHub Galaxy
+name: 🌌 Update Repository Galaxy
 
 on:
 
-  # Update every day
+  # Update automatically every day
   schedule:
-    - cron: "0 0 * * *"
+
+    - cron: "0 6 * * *"
+
 
   # Allow manual execution
   workflow_dispatch:
 
-  # Run whenever repository structure changes
+
+  # Run when the generator changes
   push:
+
     paths:
+
       - "scripts/generate_repositories.py"
-      - ".github/workflows/update-galaxy.yml"
 
 
 permissions:
+
   contents: write
 
 
@@ -24,57 +29,77 @@ jobs:
 
   update-galaxy:
 
-    name: ✦ Synchronize Galaxy
-
     runs-on: ubuntu-latest
 
 
     steps:
 
-      # ---------------------------------------------
+      # -------------------------------------------------
       # Checkout repository
-      # ---------------------------------------------
+      # -------------------------------------------------
 
-      - name: 🚀 Checkout repository
+      - name: 🌙 Enter the universe
+
         uses: actions/checkout@v4
 
 
-      # ---------------------------------------------
+      # -------------------------------------------------
       # Setup Python
-      # ---------------------------------------------
+      # -------------------------------------------------
 
-      - name: 🐍 Setup Python
+      - name: 🐍 Prepare Python
+
         uses: actions/setup-python@v5
 
         with:
+
           python-version: "3.x"
 
 
-      # ---------------------------------------------
-      # Generate repository section
-      # ---------------------------------------------
+      # -------------------------------------------------
+      # Install requests
+      # -------------------------------------------------
 
-      - name: 🌌 Generate repository galaxy
+      - name: 📡 Connect to GitHub
+
+        run: |
+
+          pip install requests
+
+
+      # -------------------------------------------------
+      # Generate repository constellation
+      # -------------------------------------------------
+
+      - name: 🪐 Generate repository planets
+
         run: |
 
           python scripts/generate_repositories.py
 
 
-      # ---------------------------------------------
-      # Commit generated README
-      # ---------------------------------------------
+      # -------------------------------------------------
+      # Commit changes
+      # -------------------------------------------------
 
-      - name: ✨ Commit changes
+      - name: ✨ Update the galaxy
+
         run: |
 
           git config user.name "github-actions[bot]"
 
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
-          git diff --cached --quiet || \
-            git commit -m "🌌 Update GitHub galaxy"
+          if git diff --cached --quiet; then
 
-          git push
+            echo "🌙 No changes detected."
+
+          else
+
+            git commit -m "🌌 Update repository constellation"
+
+            git push
+
+          fi
