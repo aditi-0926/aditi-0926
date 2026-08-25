@@ -1,195 +1,222 @@
-import requests
+import json
+import os
+import urllib.request
 from datetime import datetime
 
+
 USERNAME = "aditi-0926"
+
 README_FILE = "README.md"
 
-START = "<!-- REPOSITORIES:START -->"
-END = "<!-- REPOSITORIES:END -->"
-
-RECENT_START = "<!-- RECENT:START -->"
-RECENT_END = "<!-- RECENT:END -->"
-
-# ---------------------------------------------------------
-# Fetch repositories from GitHub
-# ---------------------------------------------------------
-
-response = requests.get(
-    f"https://api.github.com/users/{USERNAME}/repos",
-    params={
-        "per_page": 100,
-        "sort": "updated",
-        "direction": "desc",
-    },
-    headers={"Accept": "application/vnd.github+json"},
-    timeout=30,
-)
-response.raise_for_status()
-repos = response.json()
-
-# Ignore forks
-repos = [repo for repo in repos if not repo["fork"]]
-
-# Sort by most recently updated
-repos.sort(key=lambda r: r["updated_at"], reverse=True)
-
-# ---------------------------------------------------------
-# Planet styles — cycled per repo, with language-aware picks
-# ---------------------------------------------------------
-
-LANGUAGE_PLANETS = {
-    "python": ("🪐", "ORBIT"),
-    "jupyter notebook": ("🔮", "NEBULA"),
-    "javascript": ("☄️", "COMET"),
-    "typescript": ("☄️", "COMET"),
-    "sql": ("🌍", "WORLD"),
-    "html": ("🌙", "MOON"),
-    "css": ("🌙", "MOON"),
-}
-
-DEFAULT_PLANETS = [
-    ("🌌", "NEBULA"),
-    ("🪐", "ORBIT"),
-    ("🌙", "MOON"),
-    ("🌍", "WORLD"),
-    ("☄️", "COMET"),
-    ("🔮", "CRYSTAL"),
-    ("✨", "STAR"),
-    ("🌒", "ECLIPSE"),
-]
+START_MARKER = "<!-- GALAXY:START -->"
+END_MARKER = "<!-- GALAXY:END -->"
 
 
-def pick_planet(repo, index):
-    language = (repo["language"] or "").lower()
-    topics = [t.lower() for t in repo.get("topics", [])]
+def get_repositories():
 
-    if "nlp" in topics or "sentiment" in repo["name"].lower():
-        return ("🌙", "SIGNAL")
-    if "machine-learning" in topics or "ml" in topics:
-        return ("🔮", "NEBULA")
-    if language in LANGUAGE_PLANETS:
-        return LANGUAGE_PLANETS[language]
-    return DEFAULT_PLANETS[index % len(DEFAULT_PLANETS)]
-
-
-def format_date(date_string):
-    date = datetime.strptime(date_string, "%Y-%m-%dT%H:%M:%SZ")
-    return date.strftime("%d %b %Y")
-
-
-def make_card(repo, index):
-    emoji, planet_type = pick_planet(repo, index)
-    name = repo["name"]
-    description = repo["description"] or "A little world still waiting to be explored."
-    language = repo["language"] or "unknown"
-    stars = repo["stargazers_count"]
-    forks = repo["forks_count"]
-    url = repo["html_url"]
-    updated = format_date(repo["updated_at"])
-    topics = repo.get("topics", [])
-    topic_html = "<br>".join(f"`{topic}`" for topic in topics[:4]) if topics else ""
-
-    return f"""<td width="50%" valign="top">
-<table width="100%" cellspacing="0" cellpadding="16">
-<tr><td align="center">
-<h1>{emoji}</h1>
-<sub>✦ {planet_type} ✦</sub>
-</td></tr>
-<tr><td align="center">
-<h2><a href="{url}">{name}</a></h2>
-<p>{description}</p>
-</td></tr>
-<tr><td align="center">
-<sub>💻 {language} &nbsp;✦&nbsp; ⭐ {stars} &nbsp;✦&nbsp; 🍴 {forks}</sub>
-<br><br>
-<sub>last signal · {updated}</sub>
-</td></tr>
-<tr><td align="center">
-{topic_html}
-</td></tr>
-</table>
-</td>"""
-
-
-# ---------------------------------------------------------
-# Build the main repository galaxy (2 planets per row)
-# ---------------------------------------------------------
-
-cards = [make_card(repo, i) for i, repo in enumerate(repos)]
-rows = ["<tr>" + "".join(cards[i:i + 2]) + "</tr>" for i in range(0, len(cards), 2)]
-
-if rows:
-    galaxy = f'<table width="100%" cellspacing="20">\n{"".join(rows)}\n</table>'
-else:
-    galaxy = '<div align="center">🌙 no repositories found yet</div>'
-
-# ---------------------------------------------------------
-# Build the recent-signals section (last 3 updated repos)
-# ---------------------------------------------------------
-
-recent = repos[:3]
-recent_cards = []
-for repo in recent:
-    name = repo["name"]
-    url = repo["html_url"]
-    updated = format_date(repo["updated_at"])
-    recent_cards.append(
-        f'<tr><td align="center">✦ &nbsp;<a href="{url}"><b>{name}</b></a>&nbsp; ✦ &nbsp;<sub>{updated}</sub></td></tr>'
+    url = (
+        f"https://api.github.com/users/"
+        f"{USERNAME}/repos?per_page=100&sort=updated"
     )
 
-if recent_cards:
-    recent_section = f'<table width="100%" cellspacing="8">\n{"".join(recent_cards)}\n</table>'
-else:
-    recent_section = '<div align="center">✦ no recent activity</div>'
+    request = urllib.request.Request(
+        url,
+        headers={
+            "Accept": "application/vnd.github+json",
+            "User-Agent": "Aditi-Galaxy-Portfolio"
+        }
+    )
 
-# ---------------------------------------------------------
-# Read the existing README
-# ---------------------------------------------------------
+    with urllib.request.urlopen(request) as response:
 
-with open(README_FILE, "r", encoding="utf-8") as f:
-    readme = f.read()
+        return json.loads(
+            response.read().decode("utf-8")
+        )
 
-# ---------------------------------------------------------
-# Replace the repository-galaxy section between its markers
-# ---------------------------------------------------------
 
-start = readme.find(START)
-end = readme.find(END)
+def get_language_icon(language):
 
-if start == -1 or end == -1:
-    raise RuntimeError("Repository markers not found.")
+    icons = {
 
-readme = (
-    readme[: start + len(START)]
-    + "\n\n"
-    + galaxy
-    + "\n\n"
-    + readme[end:]
-)
+        "Python": "🐍",
+        "JavaScript": "⚡",
+        "TypeScript": "🔷",
+        "C++": "⚙️",
+        "Java": "☕",
+        "HTML": "🌐",
+        "CSS": "🎨",
+        "Jupyter Notebook": "📓"
 
-# ---------------------------------------------------------
-# Replace the recent-signals section between its markers
-# ---------------------------------------------------------
+    }
 
-start = readme.find(RECENT_START)
-end = readme.find(RECENT_END)
+    return icons.get(language, "✦")
 
-if start == -1 or end == -1:
-    raise RuntimeError("Recent markers not found.")
 
-readme = (
-    readme[: start + len(RECENT_START)]
-    + "\n\n"
-    + recent_section
-    + "\n\n"
-    + readme[end:]
-)
+def create_card(repo):
 
-# ---------------------------------------------------------
-# Save
-# ---------------------------------------------------------
+    name = repo["name"]
 
-with open(README_FILE, "w", encoding="utf-8") as f:
-    f.write(readme)
+    description = (
+        repo["description"]
+        or "A project exploring technology, creativity and problem solving."
+    )
 
-print(f"🌌 Galaxy updated with {len(repos)} repositories.")
+    language = (
+        repo["language"]
+        or "Project"
+    )
+
+    stars = repo["stargazers_count"]
+
+    forks = repo["forks_count"]
+
+    url = repo["html_url"]
+
+    icon = get_language_icon(language)
+
+    return f"""
+<table>
+<tr>
+
+<td width="50%">
+
+### {icon} [{name}]({url})
+
+{description}
+
+**`{language}`**
+
+⭐ {stars} &nbsp;&nbsp; 🍴 {forks}
+
+</td>
+
+</tr>
+</table>
+"""
+
+
+def generate_repository_section(repositories):
+
+    # Remove forks
+    repositories = [
+        repo
+        for repo in repositories
+        if not repo["fork"]
+    ]
+
+    # Sort by stars first
+    repositories.sort(
+        key=lambda repo: (
+            repo["stargazers_count"],
+            repo["updated_at"]
+        ),
+        reverse=True
+    )
+
+    # Display maximum 6 projects
+    repositories = repositories[:6]
+
+    cards = []
+
+    for repo in repositories:
+
+        cards.append(
+            create_card(repo)
+        )
+
+    timestamp = datetime.utcnow().strftime(
+        "%Y-%m-%d %H:%M UTC"
+    )
+
+    output = f"""
+<div align="center">
+
+### ✦ Projects drifting through my galaxy ✦
+
+</div>
+
+{''.join(cards)}
+
+<div align="center">
+
+<sub>
+🌌 Automatically synchronized with GitHub · Updated {timestamp}
+</sub>
+
+</div>
+"""
+
+    return output.strip()
+
+
+def update_readme(repository_section):
+
+    with open(
+        README_FILE,
+        "r",
+        encoding="utf-8"
+    ) as file:
+
+        readme = file.read()
+
+    start = readme.find(
+        START_MARKER
+    )
+
+    end = readme.find(
+        END_MARKER
+    )
+
+    if start == -1 or end == -1:
+
+        raise RuntimeError(
+            "Galaxy markers were not found in README.md"
+        )
+
+    new_readme = (
+        readme[:start + len(START_MARKER)]
+        + "\n\n"
+        + repository_section
+        + "\n\n"
+        + readme[end:]
+    )
+
+    with open(
+        README_FILE,
+        "w",
+        encoding="utf-8"
+    ) as file:
+
+        file.write(new_readme)
+
+
+def main():
+
+    print(
+        f"🌌 Scanning {USERNAME}'s GitHub universe..."
+    )
+
+    repositories = get_repositories()
+
+    print(
+        f"Found {len(repositories)} repositories."
+    )
+
+    repository_section = (
+        generate_repository_section(
+            repositories
+        )
+    )
+
+    update_readme(
+        repository_section
+    )
+
+    print(
+        "✨ README.md successfully updated."
+    )
+
+
+if __name__ == "__main__":
+
+    main()
