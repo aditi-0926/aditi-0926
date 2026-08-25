@@ -1,0 +1,52 @@
+name: 🌌 Update Repository Galaxy
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - "scripts/generate_repositories.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update-galaxy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: 🌙 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 📡 Install dependencies
+        run: |
+          pip install requests
+
+      - name: 🪐 Generate repository galaxy
+        run: |
+          python scripts/generate_repositories.py
+
+      - name: ✨ Commit galaxy changes
+        run: |
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "🌙 No changes detected."
+          else
+            git commit -m "🌌 Update repository galaxy"
+            git push
+          fi
