@@ -148,7 +148,125 @@ My GitHub is a collection of that journey — projects, experiments, learning, a
 
 <div align="center">
 
-Loading repositories from the galaxy...
+### ✦ Projects drifting through my galaxy ✦
+
+</div>
+
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🐍 [aditi-0926](https://github.com/aditi-0926/aditi-0926)
+
+A project exploring technology, creativity and problem solving.
+
+**`Python`**
+
+⭐ 0 &nbsp;&nbsp; 🍴 0
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🐍 [sentiment-service](https://github.com/aditi-0926/sentiment-service)
+
+A project exploring technology, creativity and problem solving.
+
+**`Python`**
+
+⭐ 0 &nbsp;&nbsp; 🍴 0
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📓 [house-price-prediction-system](https://github.com/aditi-0926/house-price-prediction-system)
+
+End-to-End House Price Prediction using ZenML, MLflow, Scikit-Learn and Streamlit
+
+**`Jupyter Notebook`**
+
+⭐ 0 &nbsp;&nbsp; 🍴 0
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🐍 [AI-Resume-Screening-System](https://github.com/aditi-0926/AI-Resume-Screening-System)
+
+AI-powered Resume Screening and Job Description Matching System using NLP, spaCy, TF-IDF, Cosine Similarity, and Streamlit.
+
+**`Python`**
+
+⭐ 0 &nbsp;&nbsp; 🍴 0
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🐍 [reddit-sentiment-analytics](https://github.com/aditi-0926/reddit-sentiment-analytics)
+
+Reddit r/India sentiment & engagement analytics using MongoDB Atlas and Power BI
+
+**`Python`**
+
+⭐ 0 &nbsp;&nbsp; 🍴 0
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📓 [Customer-Behavior-Analysis](https://github.com/aditi-0926/Customer-Behavior-Analysis)
+
+Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
+
+**`Jupyter Notebook`**
+
+⭐ 0 &nbsp;&nbsp; 🍴 0
+
+</td>
+
+</tr>
+</table>
+
+
+<div align="center">
+
+<sub>
+🌌 Automatically synchronized with GitHub · Updated 2026-08-25 17:53 UTC
+</sub>
 
 </div>
 
