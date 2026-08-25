@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=ADITI%20BHAGAT&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=a%20small%20galaxy%20of%20things%20I%27ve%20built%20%E2%9C%A6&descAlignY=58&descSize=18&color=0:03051A,25:100B2E,50:24104F,75:3B1D63,100:08051C" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=ADITI%20BHAGAT&fontSize=56&fontColor=FFF6EC&animation=fadeIn&fontAlignY=36&desc=wandering%20through%20code%2C%20one%20repository%20at%20a%20time%20%E2%9C%A6&descAlignY=56&descSize=17&color=0:0B0A1F,20:2B1B4E,45:6B3B5E,70:C98A9C,100:E8B76B" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3000&pause=1200&color=C9B6FF&center=true&vCenter=true&width=650&lines=welcome+to+my+little+corner+of+the+galaxy+%E2%9C%A6;where+ideas+turn+into+repositories+%F0%9F%8C%99;where+repositories+turn+into+little+worlds+%F0%9F%AA%90" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3200&pause=1300&color=E8B76B&center=true&vCenter=true&width=650&lines=hi%2C+i%27m+aditi+%E2%80%94+welcome+to+my+corner+of+the+sky+%E2%9C%A6;here%27s+where+ideas+turn+into+something+real+%F0%9F%8C%99;scroll+down%2C+the+stars+are+just+getting+started+%F0%9F%AA%90" />
 
 <br><br>
 
 <a href="https://github.com/aditi-0926">
-<img src="https://img.shields.io/badge/ENTER%20THE%20GALAXY-17102F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ENTER%20THE%20GALAXY-2B1B4E?style=for-the-badge&logo=github&logoColor=FFF6EC"/>
 </a>
 
 </div>
@@ -20,14 +20,14 @@
 
 <div align="center">
 
-### 🌙 a little note from earth
+### ✦ a signal from earth
 
 *I'm Aditi — a Computer Science student who likes building things,
 breaking things, learning things, and occasionally wondering why the code worked.*
 
 <br>
 
-**This page is mostly about the things I've built.**
+**Most of what's below is just the record of that.**
 
 </div>
 
@@ -39,19 +39,20 @@ breaking things, learning things, and occasionally wondering why the code worked
 
 <div align="center">
 
-### *every repository is a little world.*
+### *each repository, a different point of light.*
 
-✦     ✧     ⋆     ✦     ☄️     ✧     🪐     ✦
-
-<br>
-
-The planets below are **automatically generated from my GitHub repositories**.
+✦ ⋆ 🪐 ⋆ ☄️ ⋆ 🌙 ⋆ ✦
 
 <br>
 
-*new repository → new planet*
-*updated repository → planet moves*
-*deleted repository → disappears into the void*
+These cards are **pulled automatically from my GitHub repositories** —
+nothing here is hand-typed.
+
+<br>
+
+*new repository → new light appears*
+*repo gets updated → it drifts, brightens*
+*repo gets deleted → it burns out quietly*
 
 </div>
 
@@ -68,15 +69,12 @@ The planets below are **automatically generated from my GitHub repositories**.
 </td></tr>
 <tr><td align="center">
 <h2><a href="https://github.com/aditi-0926/aditi-0926">aditi-0926</a></h2>
-<p>A little world still waiting to be explored.</p>
+<p>The readme you're looking at, right now.</p>
 </td></tr>
 <tr><td align="center">
 <sub>💻 Python &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
 <br><br>
 <sub>last signal · 25 Aug 2026</sub>
-</td></tr>
-<tr><td align="center">
-
 </td></tr>
 </table>
 </td><td width="50%" valign="top">
@@ -87,15 +85,12 @@ The planets below are **automatically generated from my GitHub repositories**.
 </td></tr>
 <tr><td align="center">
 <h2><a href="https://github.com/aditi-0926/sentiment-service">sentiment-service</a></h2>
-<p>A little world still waiting to be explored.</p>
+<p>No description yet — still catching signal out here.</p>
 </td></tr>
 <tr><td align="center">
 <sub>💻 Python &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
 <br><br>
 <sub>last signal · 11 Aug 2026</sub>
-</td></tr>
-<tr><td align="center">
-
 </td></tr>
 </table>
 </td></tr><tr><td width="50%" valign="top">
@@ -113,9 +108,6 @@ The planets below are **automatically generated from my GitHub repositories**.
 <br><br>
 <sub>last signal · 11 Aug 2026</sub>
 </td></tr>
-<tr><td align="center">
-
-</td></tr>
 </table>
 </td><td width="50%" valign="top">
 <table width="100%" cellspacing="0" cellpadding="16">
@@ -131,9 +123,6 @@ The planets below are **automatically generated from my GitHub repositories**.
 <sub>💻 Python &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
 <br><br>
 <sub>last signal · 11 Aug 2026</sub>
-</td></tr>
-<tr><td align="center">
-
 </td></tr>
 </table>
 </td></tr><tr><td width="50%" valign="top">
@@ -151,9 +140,6 @@ The planets below are **automatically generated from my GitHub repositories**.
 <br><br>
 <sub>last signal · 10 Aug 2026</sub>
 </td></tr>
-<tr><td align="center">
-
-</td></tr>
 </table>
 </td><td width="50%" valign="top">
 <table width="100%" cellspacing="0" cellpadding="16">
@@ -170,9 +156,6 @@ The planets below are **automatically generated from my GitHub repositories**.
 <br><br>
 <sub>last signal · 14 Jun 2026</sub>
 </td></tr>
-<tr><td align="center">
-
-</td></tr>
 </table>
 </td></tr>
 </table>
@@ -187,7 +170,7 @@ The planets below are **automatically generated from my GitHub repositories**.
 
 <div align="center">
 
-*The newest activity detected from my repository universe.*
+*The freshest activity picked up from nearby.*
 
 </div>
 
@@ -205,22 +188,18 @@ The planets below are **automatically generated from my GitHub repositories**.
 
 <div align="center">
 
-### 🛰️ want to explore further?
+### 🛰️ want to see the rest?
 
 <br>
 
 <a href="https://github.com/aditi-0926?tab=repositories">
-
-<img src="https://img.shields.io/badge/VIEW%20THE%20FULL%20CONSTELLATION-251447?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
+<img src="https://img.shields.io/badge/VIEW%20EVERY%20REPOSITORY-6B3B5E?style=for-the-badge&logo=github&logoColor=FFF6EC"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/aditi-0926?tab=stars">
-
-<img src="https://img.shields.io/badge/STARRED%20UNIVERSE-17102F?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
-
+<img src="https://img.shields.io/badge/WHAT%20I%27VE%20STARRED-2B1B4E?style=for-the-badge&logo=github&logoColor=E8B76B"/>
 </a>
 
 </div>
@@ -231,27 +210,20 @@ The planets below are **automatically generated from my GitHub repositories**.
 
 <div align="center">
 
-## ✦ transmission channel ✦
+## ✦ reach me ✦
 
 <br>
 
 <a href="https://github.com/aditi-0926">
-
-<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-0B0A1F?style=for-the-badge&logo=github&logoColor=FFF6EC"/>
 </a>
-
- 
-
+&nbsp;
 <a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LinkedIn-17113B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-2B1B4E?style=for-the-badge&logo=linkedin&logoColor=FFF6EC"/>
 </a>
-
- 
-
+&nbsp;
 <a href="mailto:YOUR_EMAIL@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-30205C?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Email-6B3B5E?style=for-the-badge&logo=gmail&logoColor=FFF6EC"/>
 </a>
 
 <br><br>
@@ -260,9 +232,9 @@ The planets below are **automatically generated from my GitHub repositories**.
 
 <br>
 
-### 🌙 thanks for stopping by
+### thanks for floating by
 
-*keep exploring · keep building · keep wondering*
+*keep building · keep wondering · keep looking up*
 
 </div>
 
@@ -270,6 +242,6 @@ The planets below are **automatically generated from my GitHub repositories**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:08051C,25:3B1D63,50:24104F,75:100B2E,100:03051A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:E8B76B,30:C98A9C,60:6B3B5E,80:2B1B4E,100:0B0A1F" width="100%"/>
 
 </div>
