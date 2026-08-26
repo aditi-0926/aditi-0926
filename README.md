@@ -1,113 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ADITI%20BHAGAT&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOMEWHERE%20BETWEEN%20DATA%20AND%20THE%20STARS%20%E2%9C%A6&descAlignY=62&descSize=17&color=0:03051A,30:100A2C,55:24104F,80:44206B,100:08051C" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%">
+
+<br>
+
+<h1>✦ ADITI BHAGAT ✦</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3000&pause=1200&color=C9B6FF&center=true&vCenter=true&width=650&lines=a+small+galaxy+of+things+I've+built;where+ideas+turn+into+repositories;still+learning%2C+still+drifting" />
+
+<br>
+
+<a href="https://github.com/aditi-0926"><img src="https://img.shields.io/badge/ENTER%20THE%20GALAXY-2B1B4D?style=for-the-badge&logo=github&logoColor=E4D9FF"/></a>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3500&pause=1500&color=CDBBFF&center=true&vCenter=true&width=600&lines=welcome+to+my+little+corner+of+the+galaxy+%E2%9C%A6;where+ideas+become+repositories+%F0%9F%8C%99;every+repository+is+a+little+world" />
-
-<br><br>
-
-> *I'm Aditi — a Computer Science student who likes building things,*
->
-> *learning things, and occasionally wondering why the code worked.* 🌙
+⋆ ｡ ˚ ☾ ˚ ｡ ⋆
 
 <br>
 
-<a href="https://github.com/aditi-0926">
-<img src="https://img.shields.io/badge/%E2%9C%A6%20GitHub-16102F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+I'm Aditi — a Computer Science student who spends more time than I'd like to admit staring at a screen wondering why something broke, and slightly less time figuring out why it suddenly worked. This page is mostly about the things that came out of that process.
 
-&nbsp;
+<br>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/%E2%9C%A6%20LinkedIn-16102F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
+⋆ ｡ ˚ ☾ ˚ ｡ ⋆
 
-&nbsp;
+## 🪐 the galaxy
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/%E2%9C%A6%20Email-16102F?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
+Every repository below is pulled live from my GitHub — no two updated the same day look the same. New repo, new planet. Updated repo, it drifts. Deleted, it's gone.
+
+<br>
+
+<!-- REPOSITORIES:START -->
+
+<div align="center">
+
+🌙 the observatory is waking up... waiting for the first signal from the repository galaxy
 
 </div>
 
-<br><br>
-
----
-
-<div align="center">
-
-# ✦ MY REPOSITORY GALAXY ✦
-
-### *a collection of little worlds I've built*
+<!-- REPOSITORIES:END -->
 
 <br>
 
-<img src="./assets/galaxy.svg" width="100%" alt="Aditi's repository galaxy"/>
+⋆ ｡ ˚ ☾ ˚ ｡ ⋆
 
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# ✧ RECENT SIGNALS ✧
-
-*the latest activity detected from my universe*
-
-<br>
+## 🔭 recent signals
 
 <!-- RECENT:START -->
 
-✦ <a href="https://github.com/aditi-0926/aditi-0926"><b>aditi-0926</b></a> &nbsp; · &nbsp; 1h ago<br><br>✦ <a href="https://github.com/aditi-0926/sentiment-service"><b>sentiment-service</b></a> &nbsp; · &nbsp; 2 weeks ago<br><br>✦ <a href="https://github.com/aditi-0926/house-price-prediction-system"><b>house-price-prediction-system</b></a> &nbsp; · &nbsp; 2 weeks ago
+<div align="center">
+
+✦ scanning the stars...
+
+</div>
 
 <!-- RECENT:END -->
 
+<br>
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-2B1B4D?style=for-the-badge&logo=github&logoColor=E4D9FF"/></a>
+<a href="https://github.com/aditi-0926?tab=stars"><img src="https://img.shields.io/badge/STARRED-3D2B6B?style=for-the-badge&logo=github&logoColor=E4D9FF"/></a>
+
 </div>
 
 <br>
 
----
+⋆ ｡ ˚ ☾ ˚ ｡ ⋆
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE%20THE%20FULL%20GALAXY-24104F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
-</a>
+<a href="https://github.com/aditi-0926"><img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=E4D9FF"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-2B1B4D?style=for-the-badge&logo=linkedin&logoColor=E4D9FF"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-3D2B6B?style=for-the-badge&logo=gmail&logoColor=E4D9FF"/></a>
 
 <br><br>
 
-`✦ ───────────── ⋆｡°✩°｡⋆ ───────────── ✦`
-
-<br>
-
-### 🌙 thanks for visiting my little universe
-
-*keep exploring · keep building · keep wondering*
-
-<br>
-
-<a href="https://github.com/aditi-0926">
-
-<img src="https://img.shields.io/badge/@aditi--0926-0B0718?style=flat-square&logo=github&logoColor=CDBBFF"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:08051C,25:44206B,55:24104F,80:100A2C,100:03051A" width="100%"/>
+<sub>keep exploring · keep building · keep wondering</sub>
 
 </div>
