@@ -77,10 +77,19 @@ def format_date(date_string):
     return date.strftime("%d %b %Y")
 
 
+FALLBACK_DESCRIPTIONS = [
+    "No description yet — still taking shape.",
+    "A quiet corner of the galaxy, description pending.",
+    "Work in progress — the story hasn't been written yet.",
+    "Early days for this one. More soon.",
+    "This world hasn't been mapped yet.",
+]
+
+
 def make_card(repo, index):
     emoji, planet_type = pick_planet(repo, index)
     name = repo["name"]
-    description = repo["description"] or "A little world still waiting to be explored."
+    description = repo["description"] or FALLBACK_DESCRIPTIONS[index % len(FALLBACK_DESCRIPTIONS)]
     language = repo["language"] or "unknown"
     stars = repo["stargazers_count"]
     forks = repo["forks_count"]
