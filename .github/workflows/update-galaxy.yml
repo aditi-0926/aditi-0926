@@ -2,28 +2,17 @@ name: 🌌 Update Repository Galaxy
 
 on:
 
-  # Update automatically every day
   schedule:
-
     - cron: "0 6 * * *"
 
-
-  # Allow manual execution
   workflow_dispatch:
 
-
-  # Run when the generator changes
   push:
-
     paths:
-
       - "scripts/generate_repositories.py"
 
-
 permissions:
-
   contents: write
-
 
 jobs:
 
@@ -31,66 +20,32 @@ jobs:
 
     runs-on: ubuntu-latest
 
-
     steps:
 
-      # -------------------------------------------------
-      # Checkout repository
-      # -------------------------------------------------
-
       - name: 🌙 Enter the universe
-
         uses: actions/checkout@v4
 
-
-      # -------------------------------------------------
-      # Setup Python
-      # -------------------------------------------------
-
-      - name: 🐍 Prepare Python
-
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v5
-
         with:
-
           python-version: "3.x"
 
-
-      # -------------------------------------------------
-      # Install requests
-      # -------------------------------------------------
-
-      - name: 📡 Connect to GitHub
-
+      - name: 📡 Install dependencies
         run: |
-
           pip install requests
 
-
-      # -------------------------------------------------
-      # Generate repository constellation
-      # -------------------------------------------------
-
-      - name: 🪐 Generate repository planets
-
+      - name: 🪐 Scan GitHub repositories
         run: |
-
           python scripts/generate_repositories.py
 
-
-      # -------------------------------------------------
-      # Commit changes
-      # -------------------------------------------------
-
-      - name: ✨ Update the galaxy
-
+      - name: ✨ Save the new constellation
         run: |
 
           git config user.name "github-actions[bot]"
 
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md
+          git add README.md assets/galaxy.svg
 
           if git diff --cached --quiet; then
 
@@ -98,7 +53,7 @@ jobs:
 
           else
 
-            git commit -m "🌌 Update repository constellation"
+            git commit -m "🌌 Update repository galaxy"
 
             git push
 
