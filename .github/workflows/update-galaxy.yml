@@ -21,38 +21,29 @@ jobs:
 
     runs-on: ubuntu-latest
 
-
     steps:
 
-      - name: 🌙 Enter the universe
-
+      - name: 🌙 Checkout repository
         uses: actions/checkout@v4
 
 
       - name: 🐍 Setup Python
-
         uses: actions/setup-python@v5
-
         with:
           python-version: "3.x"
 
 
-      - name: 📡 Connect to GitHub
-
+      - name: 📡 Install dependencies
         run: |
-
           pip install requests
 
 
-      - name: 🪐 Generate repository planets
-
+      - name: 🪐 Generate repository galaxy
         run: |
-
           python scripts/generate_repositories.py
 
 
-      - name: ✨ Save the constellation
-
+      - name: ✨ Commit galaxy changes
         run: |
 
           git config user.name "github-actions[bot]"
@@ -63,7 +54,7 @@ jobs:
 
           if git diff --cached --quiet; then
 
-            echo "🌙 Nothing changed."
+            echo "🌙 No changes detected."
 
           else
 
