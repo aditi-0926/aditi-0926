@@ -1,12 +1,9 @@
 name: 🌌 Update Repository Galaxy
 
 on:
-
   schedule:
     - cron: "0 6 * * *"
-
   workflow_dispatch:
-
   push:
     paths:
       - "scripts/generate_repositories.py"
@@ -15,14 +12,11 @@ permissions:
   contents: write
 
 jobs:
-
   update-galaxy:
-
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: 🌙 Enter the universe
+      - name: 🌙 Checkout repository
         uses: actions/checkout@v4
 
       - name: 🐍 Setup Python
@@ -30,31 +24,23 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: 🔤 Install fonts
+        run: sudo apt-get update && sudo apt-get install -y fonts-dejavu-core
+
       - name: 📡 Install dependencies
-        run: |
-          pip install requests
+        run: pip install requests Pillow
 
-      - name: 🪐 Scan GitHub repositories
-        run: |
-          python scripts/generate_repositories.py
+      - name: 🪐 Generate repository galaxy
+        run: python scripts/generate_repositories.py
 
-      - name: ✨ Save the new constellation
+      - name: ✨ Commit galaxy changes
         run: |
-
           git config user.name "github-actions[bot]"
-
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add README.md assets/galaxy.svg
-
+          git add README.md cards/
           if git diff --cached --quiet; then
-
             echo "🌙 No changes detected."
-
           else
-
             git commit -m "🌌 Update repository galaxy"
-
             git push
-
           fi
