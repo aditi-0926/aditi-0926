@@ -34,11 +34,123 @@ Every repository below is pulled live from my GitHub — no two updated the same
 
 <!-- REPOSITORIES:START -->
 
-<div align="center">
+<table width="100%" cellspacing="20">
+<tr><td width="50%" valign="top">
+<table width="100%" cellspacing="0" cellpadding="16">
+<tr><td align="center">
+<h1>🪐</h1>
+<sub>✦ ORBIT ✦</sub>
+</td></tr>
+<tr><td align="center">
+<h2><a href="https://github.com/aditi-0926/aditi-0926">aditi-0926</a></h2>
+<p>No description yet — still taking shape.</p>
+</td></tr>
+<tr><td align="center">
+<sub>💻 Python &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
+<br><br>
+<sub>last signal · 25 Aug 2026</sub>
+</td></tr>
+<tr><td align="center">
 
-🌙 the observatory is waking up... waiting for the first signal from the repository galaxy
+</td></tr>
+</table>
+</td><td width="50%" valign="top">
+<table width="100%" cellspacing="0" cellpadding="16">
+<tr><td align="center">
+<h1>🌙</h1>
+<sub>✦ SIGNAL ✦</sub>
+</td></tr>
+<tr><td align="center">
+<h2><a href="https://github.com/aditi-0926/sentiment-service">sentiment-service</a></h2>
+<p>A quiet corner of the galaxy, description pending.</p>
+</td></tr>
+<tr><td align="center">
+<sub>💻 Python &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
+<br><br>
+<sub>last signal · 11 Aug 2026</sub>
+</td></tr>
+<tr><td align="center">
 
-</div>
+</td></tr>
+</table>
+</td></tr><tr><td width="50%" valign="top">
+<table width="100%" cellspacing="0" cellpadding="16">
+<tr><td align="center">
+<h1>🔮</h1>
+<sub>✦ NEBULA ✦</sub>
+</td></tr>
+<tr><td align="center">
+<h2><a href="https://github.com/aditi-0926/house-price-prediction-system">house-price-prediction-system</a></h2>
+<p>End-to-End House Price Prediction using ZenML, MLflow, Scikit-Learn and Streamlit</p>
+</td></tr>
+<tr><td align="center">
+<sub>💻 Jupyter Notebook &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
+<br><br>
+<sub>last signal · 11 Aug 2026</sub>
+</td></tr>
+<tr><td align="center">
+
+</td></tr>
+</table>
+</td><td width="50%" valign="top">
+<table width="100%" cellspacing="0" cellpadding="16">
+<tr><td align="center">
+<h1>🪐</h1>
+<sub>✦ ORBIT ✦</sub>
+</td></tr>
+<tr><td align="center">
+<h2><a href="https://github.com/aditi-0926/AI-Resume-Screening-System">AI-Resume-Screening-System</a></h2>
+<p>AI-powered Resume Screening and Job Description Matching System using NLP, spaCy, TF-IDF, Cosine Similarity, and Streamlit.</p>
+</td></tr>
+<tr><td align="center">
+<sub>💻 Python &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
+<br><br>
+<sub>last signal · 11 Aug 2026</sub>
+</td></tr>
+<tr><td align="center">
+
+</td></tr>
+</table>
+</td></tr><tr><td width="50%" valign="top">
+<table width="100%" cellspacing="0" cellpadding="16">
+<tr><td align="center">
+<h1>🌙</h1>
+<sub>✦ SIGNAL ✦</sub>
+</td></tr>
+<tr><td align="center">
+<h2><a href="https://github.com/aditi-0926/reddit-sentiment-analytics">reddit-sentiment-analytics</a></h2>
+<p>Reddit r/India sentiment & engagement analytics using MongoDB Atlas and Power BI</p>
+</td></tr>
+<tr><td align="center">
+<sub>💻 Python &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
+<br><br>
+<sub>last signal · 10 Aug 2026</sub>
+</td></tr>
+<tr><td align="center">
+
+</td></tr>
+</table>
+</td><td width="50%" valign="top">
+<table width="100%" cellspacing="0" cellpadding="16">
+<tr><td align="center">
+<h1>🔮</h1>
+<sub>✦ NEBULA ✦</sub>
+</td></tr>
+<tr><td align="center">
+<h2><a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">Customer-Behavior-Analysis</a></h2>
+<p>Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.</p>
+</td></tr>
+<tr><td align="center">
+<sub>💻 Jupyter Notebook &nbsp;✦&nbsp; ⭐ 0 &nbsp;✦&nbsp; 🍴 0</sub>
+<br><br>
+<sub>last signal · 14 Jun 2026</sub>
+</td></tr>
+<tr><td align="center">
+
+</td></tr>
+</table>
+</td></tr>
+</table>
 
 <!-- REPOSITORIES:END -->
 
@@ -50,11 +162,9 @@ Every repository below is pulled live from my GitHub — no two updated the same
 
 <!-- RECENT:START -->
 
-<div align="center">
-
-✦ scanning the stars...
-
-</div>
+<table width="100%" cellspacing="8">
+<tr><td align="center">✦ &nbsp;<a href="https://github.com/aditi-0926/aditi-0926"><b>aditi-0926</b></a>&nbsp; ✦ &nbsp;<sub>25 Aug 2026</sub></td></tr><tr><td align="center">✦ &nbsp;<a href="https://github.com/aditi-0926/sentiment-service"><b>sentiment-service</b></a>&nbsp; ✦ &nbsp;<sub>11 Aug 2026</sub></td></tr><tr><td align="center">✦ &nbsp;<a href="https://github.com/aditi-0926/house-price-prediction-system"><b>house-price-prediction-system</b></a>&nbsp; ✦ &nbsp;<sub>11 Aug 2026</sub></td></tr>
+</table>
 
 <!-- RECENT:END -->
 
