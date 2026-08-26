@@ -31,6 +31,8 @@ jobs:
         run: pip install requests Pillow
 
       - name: 🪐 Generate repository galaxy
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_repositories.py
 
       - name: ✨ Commit galaxy changes
