@@ -1,0 +1,726 @@
+
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1100"
+height="250"
+viewBox="0 0 1100 250"
+>
+
+<defs>
+
+    <!-- colourful glass gradient -->
+
+    <linearGradient
+        id="glass"
+        x1="0"
+        y1="0"
+        x2="1"
+        y2="1"
+    >
+
+        <stop
+            offset="0%"
+            stop-color="#6D5DFB"
+            stop-opacity="0.27"
+        />
+
+        <stop
+            offset="45%"
+            stop-color="#FFFFFF"
+            stop-opacity="0.09"
+        />
+
+        <stop
+            offset="100%"
+            stop-color="#FF8FD8"
+            stop-opacity="0.20"
+        />
+
+    </linearGradient>
+
+
+    <!-- glow -->
+
+    <filter
+        id="glow"
+        x="-50%"
+        y="-50%"
+        width="200%"
+        height="200%"
+    >
+
+        <feGaussianBlur
+            stdDeviation="12"
+            result="blur"
+        />
+
+        <feMerge>
+
+            <feMergeNode in="blur"/>
+
+            <feMergeNode in="SourceGraphic"/>
+
+        </feMerge>
+
+    </filter>
+
+
+    <!-- moving light -->
+
+    <linearGradient
+        id="shine"
+        x1="0"
+        y1="0"
+        x2="1"
+        y2="0"
+    >
+
+        <stop
+            offset="0%"
+            stop-color="#FFFFFF"
+            stop-opacity="0"
+        />
+
+        <stop
+            offset="50%"
+            stop-color="#FFFFFF"
+            stop-opacity="0.28"
+        />
+
+        <stop
+            offset="100%"
+            stop-color="#FFFFFF"
+            stop-opacity="0"
+        />
+
+        <animate
+            attributeName="x1"
+            values="-1;1"
+            dur="5s"
+            repeatCount="indefinite"
+        />
+
+        <animate
+            attributeName="x2"
+            values="0;2"
+            dur="5s"
+            repeatCount="indefinite"
+        />
+
+    </linearGradient>
+
+
+    
+
+    <defs>
+
+        <radialGradient id="planet5">
+
+            <stop
+                offset="0%"
+                stop-color="#FFFFFF"
+                stop-opacity="0.95"
+            />
+
+            <stop
+                offset="20%"
+                stop-color="#79A7FF"
+            />
+
+            <stop
+                offset="100%"
+                stop-color="#A78BFA"
+            />
+
+        </radialGradient>
+
+        <filter
+            id="planetGlow5"
+            x="-100%"
+            y="-100%"
+            width="300%"
+            height="300%"
+        >
+
+            <feGaussianBlur
+                stdDeviation="10"
+                result="blur"
+            />
+
+            <feMerge>
+
+                <feMergeNode in="blur"/>
+
+                <feMergeNode in="SourceGraphic"/>
+
+            </feMerge>
+
+        </filter>
+
+    </defs>
+
+
+    <!-- planet glow -->
+
+    <circle
+        cx="125"
+        cy="125"
+        r="73"
+        fill="#A78BFA"
+        opacity="0.20"
+        filter="url(#planetGlow5)"
+    />
+
+
+    <!-- orbit ring -->
+
+    <ellipse
+        cx="125"
+        cy="125"
+        rx="90"
+        ry="28"
+        fill="none"
+        stroke="#E9D5FF"
+        stroke-width="3"
+        opacity="0.65"
+        transform="rotate(-18 125 125)"
+    />
+
+
+    <!-- planet -->
+
+    <circle
+        cx="125"
+        cy="125"
+        r="58"
+        fill="url(#planet5)"
+    />
+
+
+    <!-- planet shine -->
+
+    <ellipse
+        cx="107"
+        cy="106"
+        rx="22"
+        ry="14"
+        fill="#FFFFFF"
+        opacity="0.15"
+        transform="rotate(-30 107 106)"
+    />
+
+
+    <!-- little moon -->
+
+    <circle
+        cx="192"
+        cy="95"
+        r="7"
+        fill="#FFFFFF"
+        opacity="0.75"
+    />
+
+    
+
+</defs>
+
+
+<!-- soft purple glow behind card -->
+
+<rect
+    x="15"
+    y="15"
+    width="1070"
+    height="220"
+    rx="30"
+    fill="#B56CFF"
+    opacity="0.12"
+    filter="url(#glow)"
+/>
+
+
+<!-- glass card -->
+
+<rect
+    x="20"
+    y="20"
+    width="1060"
+    height="210"
+    rx="28"
+    fill="url(#glass)"
+    stroke="#FFFFFF"
+    stroke-opacity="0.20"
+    stroke-width="1.5"
+/>
+
+
+<!-- moving shine -->
+
+<rect
+    x="20"
+    y="20"
+    width="1060"
+    height="210"
+    rx="28"
+    fill="url(#shine)"
+    opacity="0.35"
+/>
+
+
+<!-- stars -->
+
+
+            <circle
+                cx="410"
+                cy="45"
+                r="1.5"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="2s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="520"
+                cy="90"
+                r="2.2"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="3s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="680"
+                cy="35"
+                r="2.9"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="4s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="790"
+                cy="75"
+                r="1.5"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="5s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="930"
+                cy="45"
+                r="2.2"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="2s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="1040"
+                cy="105"
+                r="2.9"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="3s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="360"
+                cy="165"
+                r="1.5"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="4s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="600"
+                cy="180"
+                r="2.2"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="5s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="850"
+                cy="150"
+                r="2.9"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="2s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="1010"
+                cy="190"
+                r="1.5"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="3s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="460"
+                cy="115"
+                r="2.2"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="4s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+            <circle
+                cx="730"
+                cy="125"
+                r="2.9"
+                fill="#FFFFFF"
+                opacity="0.35"
+            >
+
+                <animate
+                    attributeName="opacity"
+                    values="0.2;1;0.2"
+                    dur="5s"
+                    repeatCount="indefinite"
+                />
+
+            </circle>
+            
+
+
+<!-- planet -->
+
+<g>
+
+    
+
+    <defs>
+
+        <radialGradient id="planet5">
+
+            <stop
+                offset="0%"
+                stop-color="#FFFFFF"
+                stop-opacity="0.95"
+            />
+
+            <stop
+                offset="20%"
+                stop-color="#79A7FF"
+            />
+
+            <stop
+                offset="100%"
+                stop-color="#A78BFA"
+            />
+
+        </radialGradient>
+
+        <filter
+            id="planetGlow5"
+            x="-100%"
+            y="-100%"
+            width="300%"
+            height="300%"
+        >
+
+            <feGaussianBlur
+                stdDeviation="10"
+                result="blur"
+            />
+
+            <feMerge>
+
+                <feMergeNode in="blur"/>
+
+                <feMergeNode in="SourceGraphic"/>
+
+            </feMerge>
+
+        </filter>
+
+    </defs>
+
+
+    <!-- planet glow -->
+
+    <circle
+        cx="125"
+        cy="125"
+        r="73"
+        fill="#A78BFA"
+        opacity="0.20"
+        filter="url(#planetGlow5)"
+    />
+
+
+    <!-- orbit ring -->
+
+    <ellipse
+        cx="125"
+        cy="125"
+        rx="90"
+        ry="28"
+        fill="none"
+        stroke="#E9D5FF"
+        stroke-width="3"
+        opacity="0.65"
+        transform="rotate(-18 125 125)"
+    />
+
+
+    <!-- planet -->
+
+    <circle
+        cx="125"
+        cy="125"
+        r="58"
+        fill="url(#planet5)"
+    />
+
+
+    <!-- planet shine -->
+
+    <ellipse
+        cx="107"
+        cy="106"
+        rx="22"
+        ry="14"
+        fill="#FFFFFF"
+        opacity="0.15"
+        transform="rotate(-30 107 106)"
+    />
+
+
+    <!-- little moon -->
+
+    <circle
+        cx="192"
+        cy="95"
+        r="7"
+        fill="#FFFFFF"
+        opacity="0.75"
+    />
+
+    
+
+    <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0; 0 -4; 0 0"
+        dur="4s"
+        repeatCount="indefinite"
+    />
+
+</g>
+
+
+<!-- repository name -->
+
+<text
+    x="320"
+    y="73"
+    font-family="Georgia, serif"
+    font-size="27"
+    font-weight="bold"
+    fill="#FFFFFF"
+>
+    Customer-Behavior-Analysis
+</text>
+
+
+<!-- description -->
+
+<text
+    x="320"
+    y="110"
+    font-family="Arial, sans-serif"
+    font-size="14"
+    fill="#E8DEF7"
+>
+    Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopp...
+</text>
+
+
+<!-- language -->
+
+<text
+    x="320"
+    y="153"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#D9C8F5"
+>
+    ◈ Jupyter Notebook
+</text>
+
+
+<!-- topics -->
+
+
+
+
+<!-- update -->
+
+<text
+    x="1040"
+    y="55"
+    text-anchor="end"
+    font-family="Arial, sans-serif"
+    font-size="12"
+    fill="#D9C8F5"
+>
+    2 months ago
+</text>
+
+
+<!-- stars -->
+
+<text
+    x="900"
+    y="150"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="20"
+    fill="#FFFFFF"
+>
+    ☆
+</text>
+
+<text
+    x="900"
+    y="177"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="12"
+    fill="#CFC1E9"
+>
+    0 stars
+</text>
+
+
+<!-- forks -->
+
+<text
+    x="1000"
+    y="150"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="20"
+    fill="#FFFFFF"
+>
+    ⑂
+</text>
+
+<text
+    x="1000"
+    y="177"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="12"
+    fill="#CFC1E9"
+>
+    0 forks
+</text>
+
+
+</svg>
