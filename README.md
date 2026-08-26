@@ -1,13 +1,12 @@
----
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%">
 
 <br>
 
-# ✦ ADITI BHAGAT ✦
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=1&pause=100000&color=E4D9FF&center=true&vCenter=true&width=600&height=60&lines=%E2%9C%A6+ADITI+BHAGAT+%E2%9C%A6" />
 
-*a small galaxy of things I've built*
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=1&pause=100000&color=B39DDB&center=true&vCenter=true&width=500&height=30&lines=a+small+galaxy+of+things+I've+built" />
 
 <br>
 
@@ -15,7 +14,11 @@
 
 <br>
 
+<table align="center"><tr><td width="600">
+
 I'm Aditi — a Computer Science student who spends more time than I'd like to admit staring at a screen wondering why something broke, and slightly less time figuring out why it suddenly worked. Everything below is what came out of that process.
+
+</td></tr></table>
 
 <br>
 
