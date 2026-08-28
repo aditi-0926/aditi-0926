@@ -97,7 +97,56 @@ def shorten(text, limit=110):
         return text
 
     return text[:limit - 3] + "..."
+    
+def wrap_text(text, max_chars=72):
+    """
+    Split description into at most two SVG-friendly lines.
+    """
 
+    if not text:
+        return [
+            "A little universe still waiting",
+            "to be explored."
+        ]
+
+    words = text.split()
+
+    lines = []
+    current = ""
+
+    for word in words:
+
+        test = (
+            current + " " + word
+        ).strip()
+
+        if len(test) <= max_chars:
+
+            current = test
+
+        else:
+
+            if current:
+                lines.append(current)
+
+            current = word
+
+            if len(lines) == 1:
+                break
+
+    if current and len(lines) < 2:
+        lines.append(current)
+
+    if len(lines) == 2:
+        lines[1] = lines[1].rstrip(".")
+
+        if len(lines[1]) > max_chars - 3:
+            lines[1] = (
+                lines[1][:max_chars - 3]
+                + "..."
+            )
+
+    return lines
 
 def time_ago(date_string):
 
@@ -267,7 +316,7 @@ def create_planet(theme, index):
         cy="125"
         r="73"
         fill="{theme['planet2']}"
-        opacity="0.20"
+        opacity="0.32"
         filter="url(#planetGlow{index})"
     />
 
@@ -387,10 +436,10 @@ def create_card(repo, index):
 
     name = repo["name"]
 
-    description = shorten(
-        repo["description"]
+    description_lines = wrap_text(
+        repo["description"],
+        max_chars=65
     )
-
     language = (
         repo["language"]
         or "Code"
@@ -429,7 +478,7 @@ def create_card(repo, index):
 
         <rect
             x="{topic_x}"
-            y="184"
+            y="194"
             width="{width}"
             height="26"
             rx="13"
@@ -439,7 +488,7 @@ def create_card(repo, index):
 
         <text
             x="{topic_x + width / 2}"
-            y="201"
+            y="211"
             text-anchor="middle"
             font-family="Arial"
             font-size="11"
@@ -476,20 +525,26 @@ viewBox="0 0 1100 250"
         <stop
             offset="0%"
             stop-color="{theme['a']}"
-            stop-opacity="0.27"
+            stop-opacity="0.42"
         />
 
-        <stop
-            offset="45%"
-            stop-color="#FFFFFF"
-            stop-opacity="0.09"
-        />
+       <stop
+           offset="35%"
+           stop-color="{theme['b']}"
+           stop-opacity="0.20"
+       />
 
-        <stop
-            offset="100%"
-            stop-color="{theme['c']}"
-            stop-opacity="0.20"
-        />
+       <stop
+           offset="70%"
+           stop-color="#FFFFFF"
+           stop-opacity="0.10"
+       />
+
+       <stop
+           offset="100%"
+           stop-color="{theme['c']}"
+           stop-opacity="0.32"
+       />
 
     </linearGradient>
 
@@ -652,20 +707,40 @@ viewBox="0 0 1100 250"
 
 <text
     x="320"
-    y="110"
+    y="108"
     font-family="Arial, sans-serif"
     font-size="17"
-    fill="#E8DEF7"
+    font-weight="400"
+    fill="#F1E9FF"
 >
-    {esc(description)}
-</text>
 
+    <tspan
+        x="320"
+        dy="0"
+    >
+        {esc(description_lines[0])}
+    </tspan>
+
+    {
+        f'''
+        <tspan
+            x="320"
+            dy="25"
+        >
+            {esc(description_lines[1])}
+        </tspan>
+        '''
+        if len(description_lines) > 1
+        else ""
+    }
+
+</text>
 
 <!-- language -->
 
 <text
     x="320"
-    y="153"
+    y="174"
     font-family="Arial, sans-serif"
     font-size="13"
     fill="#D9C8F5"
