@@ -654,7 +654,7 @@ viewBox="0 0 1100 250"
     x="320"
     y="110"
     font-family="Arial, sans-serif"
-    font-size="14"
+    font-size="17"
     fill="#E8DEF7"
 >
     {esc(description)}
