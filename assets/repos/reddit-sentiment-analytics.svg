@@ -21,20 +21,26 @@ viewBox="0 0 1100 250"
         <stop
             offset="0%"
             stop-color="#6366F1"
-            stop-opacity="0.27"
+            stop-opacity="0.42"
         />
 
-        <stop
-            offset="45%"
-            stop-color="#FFFFFF"
-            stop-opacity="0.09"
-        />
+       <stop
+           offset="35%"
+           stop-color="#A855F7"
+           stop-opacity="0.20"
+       />
 
-        <stop
-            offset="100%"
-            stop-color="#EC4899"
-            stop-opacity="0.20"
-        />
+       <stop
+           offset="70%"
+           stop-color="#FFFFFF"
+           stop-opacity="0.10"
+       />
+
+       <stop
+           offset="100%"
+           stop-color="#EC4899"
+           stop-opacity="0.32"
+       />
 
     </linearGradient>
 
@@ -167,7 +173,7 @@ viewBox="0 0 1100 250"
         cy="125"
         r="73"
         fill="#F472B6"
-        opacity="0.20"
+        opacity="0.32"
         filter="url(#planetGlow4)"
     />
 
@@ -548,7 +554,7 @@ viewBox="0 0 1100 250"
         cy="125"
         r="73"
         fill="#F472B6"
-        opacity="0.20"
+        opacity="0.32"
         filter="url(#planetGlow4)"
     />
 
@@ -632,20 +638,36 @@ viewBox="0 0 1100 250"
 
 <text
     x="320"
-    y="110"
+    y="108"
     font-family="Arial, sans-serif"
     font-size="17"
-    fill="#E8DEF7"
+    font-weight="400"
+    fill="#F1E9FF"
 >
-    Reddit r/India sentiment &amp; engagement analytics using MongoDB Atlas and Power BI
-</text>
 
+    <tspan
+        x="320"
+        dy="0"
+    >
+        Reddit r/India sentiment &amp; engagement analytics using MongoDB
+    </tspan>
+
+    
+        <tspan
+            x="320"
+            dy="25"
+        >
+            Atlas
+        </tspan>
+        
+
+</text>
 
 <!-- language -->
 
 <text
     x="320"
-    y="153"
+    y="174"
     font-family="Arial, sans-serif"
     font-size="13"
     fill="#D9C8F5"

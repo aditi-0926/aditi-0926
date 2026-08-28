@@ -21,20 +21,26 @@ viewBox="0 0 1100 250"
         <stop
             offset="0%"
             stop-color="#6D5DFB"
-            stop-opacity="0.27"
+            stop-opacity="0.42"
         />
 
-        <stop
-            offset="45%"
-            stop-color="#FFFFFF"
-            stop-opacity="0.09"
-        />
+       <stop
+           offset="35%"
+           stop-color="#B56CFF"
+           stop-opacity="0.20"
+       />
 
-        <stop
-            offset="100%"
-            stop-color="#FF8FD8"
-            stop-opacity="0.20"
-        />
+       <stop
+           offset="70%"
+           stop-color="#FFFFFF"
+           stop-opacity="0.10"
+       />
+
+       <stop
+           offset="100%"
+           stop-color="#FF8FD8"
+           stop-opacity="0.32"
+       />
 
     </linearGradient>
 
@@ -167,7 +173,7 @@ viewBox="0 0 1100 250"
         cy="125"
         r="73"
         fill="#A78BFA"
-        opacity="0.20"
+        opacity="0.32"
         filter="url(#planetGlow5)"
     />
 
@@ -548,7 +554,7 @@ viewBox="0 0 1100 250"
         cy="125"
         r="73"
         fill="#A78BFA"
-        opacity="0.20"
+        opacity="0.32"
         filter="url(#planetGlow5)"
     />
 
@@ -632,20 +638,36 @@ viewBox="0 0 1100 250"
 
 <text
     x="320"
-    y="110"
+    y="108"
     font-family="Arial, sans-serif"
     font-size="17"
-    fill="#E8DEF7"
+    font-weight="400"
+    fill="#F1E9FF"
 >
-    Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopp...
-</text>
 
+    <tspan
+        x="320"
+        dy="0"
+    >
+        Complete Data Analytics Portfolio Project with end-to-end
+    </tspan>
+
+    
+        <tspan
+            x="320"
+            dy="25"
+        >
+            industry
+        </tspan>
+        
+
+</text>
 
 <!-- language -->
 
 <text
     x="320"
-    y="153"
+    y="174"
     font-family="Arial, sans-serif"
     font-size="13"
     fill="#D9C8F5"
