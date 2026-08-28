@@ -14,7 +14,7 @@
 
 <br>
 
-<table align="center"><tr><td width="600">
+<table align="center"><tr><td width="600" align="center">
 
 I'm Aditi — a Computer Science student who spends more time than I'd like to admit staring at a screen wondering why something broke, and slightly less time figuring out why it suddenly worked. Everything below is what came out of that process.
 
