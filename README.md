@@ -41,12 +41,12 @@ I'm Aditi — a Computer Science student who spends more time than I'd like to a
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
+<a href="https://github.com/aditi-0926/sentiment-service">
 
 <img
-src="./assets/repos/aditi-0926.svg"
+src="./assets/repos/sentiment-service.svg"
 width="100%"
-alt="aditi-0926"
+alt="sentiment-service"
 />
 
 </a>
@@ -58,12 +58,12 @@ alt="aditi-0926"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/sentiment-service">
+<a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
-src="./assets/repos/sentiment-service.svg"
+src="./assets/repos/aditi-0926.svg"
 width="100%"
-alt="sentiment-service"
+alt="aditi-0926"
 />
 
 </a>
@@ -157,17 +157,17 @@ alt="Customer-Behavior-Analysis"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/aditi-0926">
-<b>✦ aditi-0926</b>
-</a>
-&nbsp; · &nbsp;
-just now
-<br><br>
 <a href="https://github.com/aditi-0926/sentiment-service">
 <b>✦ sentiment-service</b>
 </a>
 &nbsp; · &nbsp;
-2 weeks ago
+just now
+<br><br>
+<a href="https://github.com/aditi-0926/aditi-0926">
+<b>✦ aditi-0926</b>
+</a>
+&nbsp; · &nbsp;
+13h ago
 <br><br>
 <a href="https://github.com/aditi-0926/house-price-prediction-system">
 <b>✦ house-price-prediction-system</b>

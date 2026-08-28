@@ -20,13 +20,13 @@ viewBox="0 0 1100 250"
 
         <stop
             offset="0%"
-            stop-color="#6D5DFB"
+            stop-color="#4F8CFF"
             stop-opacity="0.42"
         />
 
        <stop
            offset="35%"
-           stop-color="#B56CFF"
+           stop-color="#8B7CFF"
            stop-opacity="0.20"
        />
 
@@ -38,7 +38,7 @@ viewBox="0 0 1100 250"
 
        <stop
            offset="100%"
-           stop-color="#FF8FD8"
+           stop-color="#C084FC"
            stop-opacity="0.32"
        />
 
@@ -120,7 +120,7 @@ viewBox="0 0 1100 250"
 
     <defs>
 
-        <radialGradient id="planet0">
+        <radialGradient id="planet1">
 
             <stop
                 offset="0%"
@@ -130,18 +130,18 @@ viewBox="0 0 1100 250"
 
             <stop
                 offset="20%"
-                stop-color="#79A7FF"
+                stop-color="#60A5FA"
             />
 
             <stop
                 offset="100%"
-                stop-color="#A78BFA"
+                stop-color="#C084FC"
             />
 
         </radialGradient>
 
         <filter
-            id="planetGlow0"
+            id="planetGlow1"
             x="-100%"
             y="-100%"
             width="300%"
@@ -172,9 +172,9 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="73"
-        fill="#A78BFA"
+        fill="#C084FC"
         opacity="0.32"
-        filter="url(#planetGlow0)"
+        filter="url(#planetGlow1)"
     />
 
 
@@ -186,7 +186,7 @@ viewBox="0 0 1100 250"
         rx="90"
         ry="28"
         fill="none"
-        stroke="#E9D5FF"
+        stroke="#DDD6FE"
         stroke-width="3"
         opacity="0.65"
         transform="rotate(-18 125 125)"
@@ -199,7 +199,7 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="58"
-        fill="url(#planet0)"
+        fill="url(#planet1)"
     />
 
 
@@ -239,7 +239,7 @@ viewBox="0 0 1100 250"
     width="1070"
     height="220"
     rx="30"
-    fill="#B56CFF"
+    fill="#8B7CFF"
     opacity="0.12"
     filter="url(#glow)"
 />
@@ -501,7 +501,7 @@ viewBox="0 0 1100 250"
 
     <defs>
 
-        <radialGradient id="planet0">
+        <radialGradient id="planet1">
 
             <stop
                 offset="0%"
@@ -511,18 +511,18 @@ viewBox="0 0 1100 250"
 
             <stop
                 offset="20%"
-                stop-color="#79A7FF"
+                stop-color="#60A5FA"
             />
 
             <stop
                 offset="100%"
-                stop-color="#A78BFA"
+                stop-color="#C084FC"
             />
 
         </radialGradient>
 
         <filter
-            id="planetGlow0"
+            id="planetGlow1"
             x="-100%"
             y="-100%"
             width="300%"
@@ -553,9 +553,9 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="73"
-        fill="#A78BFA"
+        fill="#C084FC"
         opacity="0.32"
-        filter="url(#planetGlow0)"
+        filter="url(#planetGlow1)"
     />
 
 
@@ -567,7 +567,7 @@ viewBox="0 0 1100 250"
         rx="90"
         ry="28"
         fill="none"
-        stroke="#E9D5FF"
+        stroke="#DDD6FE"
         stroke-width="3"
         opacity="0.65"
         transform="rotate(-18 125 125)"
@@ -580,7 +580,7 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="58"
-        fill="url(#planet0)"
+        fill="url(#planet1)"
     />
 
 
@@ -691,7 +691,7 @@ viewBox="0 0 1100 250"
     font-size="12"
     fill="#D9C8F5"
 >
-    just now
+    13h ago
 </text>
 
 
