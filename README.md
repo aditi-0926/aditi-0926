@@ -161,13 +161,13 @@ alt="Customer-Behavior-Analysis"
 <b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-23h ago
+3 days ago
 <br><br>
 <a href="https://github.com/aditi-0926/sentiment-service">
 <b>✦ sentiment-service</b>
 </a>
 &nbsp; · &nbsp;
-1 week ago
+2 weeks ago
 <br><br>
 <a href="https://github.com/aditi-0926/house-price-prediction-system">
 <b>✦ house-price-prediction-system</b>
