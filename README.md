@@ -41,6 +41,23 @@ I'm Aditi — a Computer Science student who spends more time than I'd like to a
 
 <div align="center">
 
+<a href="https://github.com/aditi-0926/CustomerPulse">
+
+<img
+src="./assets/repos/CustomerPulse.svg"
+width="100%"
+alt="CustomerPulse"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
 <a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
@@ -157,6 +174,12 @@ alt="Customer-Behavior-Analysis"
 <!-- RECENT:START -->
 
 
+<a href="https://github.com/aditi-0926/CustomerPulse">
+<b>✦ CustomerPulse</b>
+</a>
+&nbsp; · &nbsp;
+15h ago
+<br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
 </a>
@@ -167,13 +190,7 @@ alt="Customer-Behavior-Analysis"
 <b>✦ sentiment-service</b>
 </a>
 &nbsp; · &nbsp;
-3 weeks ago
-<br><br>
-<a href="https://github.com/aditi-0926/house-price-prediction-system">
-<b>✦ house-price-prediction-system</b>
-</a>
-&nbsp; · &nbsp;
-1 month ago
+4 weeks ago
 
 
 <!-- RECENT:END -->
