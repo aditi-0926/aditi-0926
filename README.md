@@ -3,9 +3,6 @@
 <div align="center">
 
 # ✦ MY REPOSITORY GALAXY ✦
-
-### *a collection of little worlds I've built*
-
 <br>
 
 <!-- REPOSITORIES:START -->
