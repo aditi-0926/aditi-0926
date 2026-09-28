@@ -13,6 +13,23 @@
 
 <div align="center">
 
+<a href="https://github.com/aditi-0926/aditi-0926">
+
+<img
+src="./assets/repos/aditi-0926.svg"
+width="100%"
+alt="aditi-0926"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
 <a href="https://github.com/aditi-0926/house-price-prediction-system">
 
 <img
@@ -36,23 +53,6 @@ alt="house-price-prediction-system"
 src="./assets/repos/CustomerPulse.svg"
 width="100%"
 alt="CustomerPulse"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
-<a href="https://github.com/aditi-0926/aditi-0926">
-
-<img
-src="./assets/repos/aditi-0926.svg"
-width="100%"
-alt="aditi-0926"
 />
 
 </a>
@@ -146,23 +146,23 @@ alt="Customer-Behavior-Analysis"
 <!-- RECENT:START -->
 
 
+<a href="https://github.com/aditi-0926/aditi-0926">
+<b>✦ aditi-0926</b>
+</a>
+&nbsp; · &nbsp;
+1 day ago
+<br><br>
 <a href="https://github.com/aditi-0926/house-price-prediction-system">
 <b>✦ house-price-prediction-system</b>
 </a>
 &nbsp; · &nbsp;
-4h ago
+1 day ago
 <br><br>
 <a href="https://github.com/aditi-0926/CustomerPulse">
 <b>✦ CustomerPulse</b>
 </a>
 &nbsp; · &nbsp;
-4h ago
-<br><br>
-<a href="https://github.com/aditi-0926/aditi-0926">
-<b>✦ aditi-0926</b>
-</a>
-&nbsp; · &nbsp;
-19h ago
+1 day ago
 
 
 <!-- RECENT:END -->
