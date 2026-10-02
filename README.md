@@ -10,12 +10,12 @@
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/Movie-recommendation-system">
+<a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
-src="./assets/repos/Movie-recommendation-system.svg"
+src="./assets/repos/aditi-0926.svg"
 width="100%"
-alt="Movie-recommendation-system"
+alt="aditi-0926"
 />
 
 </a>
@@ -27,12 +27,12 @@ alt="Movie-recommendation-system"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
+<a href="https://github.com/aditi-0926/Movie-recommendation-system">
 
 <img
-src="./assets/repos/aditi-0926.svg"
+src="./assets/repos/Movie-recommendation-system.svg"
 width="100%"
-alt="aditi-0926"
+alt="Movie-recommendation-system"
 />
 
 </a>
@@ -160,14 +160,14 @@ alt="Customer-Behavior-Analysis"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/Movie-recommendation-system">
-<b>✦ Movie-recommendation-system</b>
-</a>
-&nbsp; · &nbsp;
-6h ago
-<br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
+</a>
+&nbsp; · &nbsp;
+23h ago
+<br><br>
+<a href="https://github.com/aditi-0926/Movie-recommendation-system">
+<b>✦ Movie-recommendation-system</b>
 </a>
 &nbsp; · &nbsp;
 1 day ago
@@ -176,7 +176,7 @@ alt="Customer-Behavior-Analysis"
 <b>✦ CustomerPulse</b>
 </a>
 &nbsp; · &nbsp;
-2 days ago
+3 days ago
 
 
 <!-- RECENT:END -->
