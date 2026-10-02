@@ -4,20 +4,7 @@ Data Science and AI-focused professional working at the intersection of data, ma
 
 I build end-to-end solutions that transform raw data into actionable insights and intelligent outcomes, covering data preparation, analysis, model development, evaluation, visualization, and deployment.
 
-## Skills
 
-**Languages:** Python, SQL
-
-**Data Science:** Pandas, NumPy, Scikit-learn, Statistics, EDA, Feature Engineering
-
-**Machine Learning:** Regression, Classification, Clustering, Model Evaluation
-
-**NLP:** spaCy, TF-IDF, Cosine Similarity, Sentiment Analysis
-
-**Databases:** PostgreSQL, MongoDB, MongoDB Atlas
-
-**Analytics:** Power BI, DAX, Data Visualization, KPI Analysis
-<br>
 
 <div align="center">
 
