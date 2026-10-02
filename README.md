@@ -1,4 +1,23 @@
----
+## About Me
+
+Data Science and AI-focused professional working at the intersection of data, machine learning, and intelligent systems. My work spans predictive modeling, NLP, recommendation systems, data analytics, and AI-driven applications.
+
+I build end-to-end solutions that transform raw data into actionable insights and intelligent outcomes, covering data preparation, analysis, model development, evaluation, visualization, and deployment.
+
+## Skills
+
+**Languages:** Python, SQL
+
+**Data Science:** Pandas, NumPy, Scikit-learn, Statistics, EDA, Feature Engineering
+
+**Machine Learning:** Regression, Classification, Clustering, Model Evaluation
+
+**NLP:** spaCy, TF-IDF, Cosine Similarity, Sentiment Analysis
+
+**Databases:** PostgreSQL, MongoDB, MongoDB Atlas
+
+**Analytics:** Power BI, DAX, Data Visualization, KPI Analysis
+
 
 <div align="center">
 
