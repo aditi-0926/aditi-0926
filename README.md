@@ -17,7 +17,7 @@ I build end-to-end solutions that transform raw data into actionable insights an
 **Databases:** PostgreSQL, MongoDB, MongoDB Atlas
 
 **Analytics:** Power BI, DAX, Data Visualization, KPI Analysis
-
+<br>
 
 <div align="center">
 
