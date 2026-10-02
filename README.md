@@ -1,9 +1,8 @@
 ## About Me
 
-Data Science and AI-focused student working at the intersection of **data, machine learning, and intelligent systems.** ✦ My work spans predictive modeling, NLP, recommendation systems, data analytics, and AI-driven applications. 
+Data Science and AI-focused student working at the intersection of data, machine learning, and intelligent systems. My work spans predictive modeling, NLP, recommendation systems, data analytics, and AI-driven applications.
 
-✧ I build **end-to-end solutions** ✦ that transform raw data into actionable insights ✧ and intelligent outcomes, covering data preparation, analysis, model development, evaluation, visualization, and deployment.
-
+I build end-to-end solutions that transform raw data into actionable insights and intelligent outcomes, covering data preparation, analysis, model development, evaluation, visualization, and deployment.
 
 
 <div align="center">
