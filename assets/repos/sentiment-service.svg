@@ -20,13 +20,13 @@ viewBox="0 0 1100 250"
 
         <stop
             offset="0%"
-            stop-color="#6366F1"
+            stop-color="#6D5DFB"
             stop-opacity="0.42"
         />
 
        <stop
            offset="35%"
-           stop-color="#A855F7"
+           stop-color="#B56CFF"
            stop-opacity="0.20"
        />
 
@@ -38,7 +38,7 @@ viewBox="0 0 1100 250"
 
        <stop
            offset="100%"
-           stop-color="#EC4899"
+           stop-color="#FF8FD8"
            stop-opacity="0.32"
        />
 
@@ -120,7 +120,7 @@ viewBox="0 0 1100 250"
 
     <defs>
 
-        <radialGradient id="planet4">
+        <radialGradient id="planet0">
 
             <stop
                 offset="0%"
@@ -130,18 +130,18 @@ viewBox="0 0 1100 250"
 
             <stop
                 offset="20%"
-                stop-color="#818CF8"
+                stop-color="#79A7FF"
             />
 
             <stop
                 offset="100%"
-                stop-color="#F472B6"
+                stop-color="#A78BFA"
             />
 
         </radialGradient>
 
         <filter
-            id="planetGlow4"
+            id="planetGlow0"
             x="-100%"
             y="-100%"
             width="300%"
@@ -172,9 +172,9 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="73"
-        fill="#F472B6"
+        fill="#A78BFA"
         opacity="0.32"
-        filter="url(#planetGlow4)"
+        filter="url(#planetGlow0)"
     />
 
 
@@ -186,7 +186,7 @@ viewBox="0 0 1100 250"
         rx="90"
         ry="28"
         fill="none"
-        stroke="#FBCFE8"
+        stroke="#E9D5FF"
         stroke-width="3"
         opacity="0.65"
         transform="rotate(-18 125 125)"
@@ -199,7 +199,7 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="58"
-        fill="url(#planet4)"
+        fill="url(#planet0)"
     />
 
 
@@ -239,7 +239,7 @@ viewBox="0 0 1100 250"
     width="1070"
     height="220"
     rx="30"
-    fill="#A855F7"
+    fill="#B56CFF"
     opacity="0.12"
     filter="url(#glow)"
 />
@@ -501,7 +501,7 @@ viewBox="0 0 1100 250"
 
     <defs>
 
-        <radialGradient id="planet4">
+        <radialGradient id="planet0">
 
             <stop
                 offset="0%"
@@ -511,18 +511,18 @@ viewBox="0 0 1100 250"
 
             <stop
                 offset="20%"
-                stop-color="#818CF8"
+                stop-color="#79A7FF"
             />
 
             <stop
                 offset="100%"
-                stop-color="#F472B6"
+                stop-color="#A78BFA"
             />
 
         </radialGradient>
 
         <filter
-            id="planetGlow4"
+            id="planetGlow0"
             x="-100%"
             y="-100%"
             width="300%"
@@ -553,9 +553,9 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="73"
-        fill="#F472B6"
+        fill="#A78BFA"
         opacity="0.32"
-        filter="url(#planetGlow4)"
+        filter="url(#planetGlow0)"
     />
 
 
@@ -567,7 +567,7 @@ viewBox="0 0 1100 250"
         rx="90"
         ry="28"
         fill="none"
-        stroke="#FBCFE8"
+        stroke="#E9D5FF"
         stroke-width="3"
         opacity="0.65"
         transform="rotate(-18 125 125)"
@@ -580,7 +580,7 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="58"
-        fill="url(#planet4)"
+        fill="url(#planet0)"
     />
 
 
@@ -649,7 +649,7 @@ viewBox="0 0 1100 250"
         x="320"
         dy="0"
     >
-        A little universe still waiting
+        Sentiment classification API (RoBERTa + FastAPI) with a
     </tspan>
 
     
@@ -657,7 +657,7 @@ viewBox="0 0 1100 250"
             x="320"
             dy="25"
         >
-            to be explored.
+            Docker/GitHub
         </tspan>
         
 
@@ -680,6 +680,98 @@ viewBox="0 0 1100 250"
 
 
 
+        <rect
+            x="320"
+            y="194"
+            width="75"
+            height="26"
+            rx="13"
+            fill="#B56CFF"
+            opacity="0.28"
+        />
+
+        <text
+            x="357.5"
+            y="211"
+            text-anchor="middle"
+            font-family="Arial"
+            font-size="11"
+            fill="#F6F0FF"
+        >
+            ci-cd
+        </text>
+
+        
+
+        <rect
+            x="404"
+            y="194"
+            width="75"
+            height="26"
+            rx="13"
+            fill="#B56CFF"
+            opacity="0.28"
+        />
+
+        <text
+            x="441.5"
+            y="211"
+            text-anchor="middle"
+            font-family="Arial"
+            font-size="11"
+            fill="#F6F0FF"
+        >
+            docker
+        </text>
+
+        
+
+        <rect
+            x="488"
+            y="194"
+            width="80.5"
+            height="26"
+            rx="13"
+            fill="#B56CFF"
+            opacity="0.28"
+        />
+
+        <text
+            x="528.25"
+            y="211"
+            text-anchor="middle"
+            font-family="Arial"
+            font-size="11"
+            fill="#F6F0FF"
+        >
+            fastapi
+        </text>
+
+        
+
+        <rect
+            x="577.5"
+            y="194"
+            width="230.5"
+            height="26"
+            rx="13"
+            fill="#B56CFF"
+            opacity="0.28"
+        />
+
+        <text
+            x="692.75"
+            y="211"
+            text-anchor="middle"
+            font-family="Arial"
+            font-size="11"
+            fill="#F6F0FF"
+        >
+            natural-language-processing
+        </text>
+
+        
+
 
 <!-- update -->
 
@@ -691,7 +783,7 @@ viewBox="0 0 1100 250"
     font-size="12"
     fill="#D9C8F5"
 >
-    4 weeks ago
+    just now
 </text>
 
 
@@ -716,7 +808,7 @@ viewBox="0 0 1100 250"
     font-size="12"
     fill="#CFC1E9"
 >
-    0 stars
+    1 stars
 </text>
 
 

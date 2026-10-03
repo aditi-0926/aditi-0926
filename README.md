@@ -15,12 +15,46 @@ I build end-to-end solutions that transform raw data into actionable insights an
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
+<a href="https://github.com/aditi-0926/sentiment-service">
 
 <img
-src="./assets/repos/aditi-0926.svg"
+src="./assets/repos/sentiment-service.svg"
 width="100%"
-alt="aditi-0926"
+alt="sentiment-service"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926/reddit-sentiment-analytics">
+
+<img
+src="./assets/repos/reddit-sentiment-analytics.svg"
+width="100%"
+alt="reddit-sentiment-analytics"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
+
+<img
+src="./assets/repos/Customer-Behavior-Analysis.svg"
+width="100%"
+alt="Customer-Behavior-Analysis"
 />
 
 </a>
@@ -38,6 +72,23 @@ alt="aditi-0926"
 src="./assets/repos/Movie-recommendation-system.svg"
 width="100%"
 alt="Movie-recommendation-system"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926/aditi-0926">
+
+<img
+src="./assets/repos/aditi-0926.svg"
+width="100%"
+alt="aditi-0926"
 />
 
 </a>
@@ -83,63 +134,12 @@ alt="house-price-prediction-system"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/sentiment-service">
-
-<img
-src="./assets/repos/sentiment-service.svg"
-width="100%"
-alt="sentiment-service"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
 <a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
 
 <img
 src="./assets/repos/AI-Resume-Screening-System.svg"
 width="100%"
 alt="AI-Resume-Screening-System"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
-<a href="https://github.com/aditi-0926/reddit-sentiment-analytics">
-
-<img
-src="./assets/repos/reddit-sentiment-analytics.svg"
-width="100%"
-alt="reddit-sentiment-analytics"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
-<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
-
-<img
-src="./assets/repos/Customer-Behavior-Analysis.svg"
-width="100%"
-alt="Customer-Behavior-Analysis"
 />
 
 </a>
@@ -165,23 +165,23 @@ alt="Customer-Behavior-Analysis"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/aditi-0926">
-<b>✦ aditi-0926</b>
+<a href="https://github.com/aditi-0926/sentiment-service">
+<b>✦ sentiment-service</b>
 </a>
 &nbsp; · &nbsp;
-23h ago
+just now
 <br><br>
-<a href="https://github.com/aditi-0926/Movie-recommendation-system">
-<b>✦ Movie-recommendation-system</b>
+<a href="https://github.com/aditi-0926/reddit-sentiment-analytics">
+<b>✦ reddit-sentiment-analytics</b>
 </a>
 &nbsp; · &nbsp;
-1 day ago
+just now
 <br><br>
-<a href="https://github.com/aditi-0926/CustomerPulse">
-<b>✦ CustomerPulse</b>
+<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
+<b>✦ Customer-Behavior-Analysis</b>
 </a>
 &nbsp; · &nbsp;
-3 days ago
+just now
 
 
 <!-- RECENT:END -->
