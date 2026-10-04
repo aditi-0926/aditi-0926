@@ -15,6 +15,40 @@ I build end-to-end solutions that transform raw data into actionable insights an
 
 <div align="center">
 
+<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
+
+<img
+src="./assets/repos/AI-Resume-Screening-System.svg"
+width="100%"
+alt="AI-Resume-Screening-System"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926/aditi-0926">
+
+<img
+src="./assets/repos/aditi-0926.svg"
+width="100%"
+alt="aditi-0926"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
 <a href="https://github.com/aditi-0926/sentiment-service">
 
 <img
@@ -83,23 +117,6 @@ alt="Movie-recommendation-system"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
-
-<img
-src="./assets/repos/aditi-0926.svg"
-width="100%"
-alt="aditi-0926"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
 <a href="https://github.com/aditi-0926/CustomerPulse">
 
 <img
@@ -131,23 +148,6 @@ alt="house-price-prediction-system"
 
 <br>
 
-
-<div align="center">
-
-<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
-
-<img
-src="./assets/repos/AI-Resume-Screening-System.svg"
-width="100%"
-alt="AI-Resume-Screening-System"
-/>
-
-</a>
-
-</div>
-
-<br>
-
 <!-- REPOSITORIES:END -->
 
 </div>
@@ -165,23 +165,23 @@ alt="AI-Resume-Screening-System"
 <!-- RECENT:START -->
 
 
+<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
+<b>✦ AI-Resume-Screening-System</b>
+</a>
+&nbsp; · &nbsp;
+18h ago
+<br><br>
+<a href="https://github.com/aditi-0926/aditi-0926">
+<b>✦ aditi-0926</b>
+</a>
+&nbsp; · &nbsp;
+1 day ago
+<br><br>
 <a href="https://github.com/aditi-0926/sentiment-service">
 <b>✦ sentiment-service</b>
 </a>
 &nbsp; · &nbsp;
-just now
-<br><br>
-<a href="https://github.com/aditi-0926/reddit-sentiment-analytics">
-<b>✦ reddit-sentiment-analytics</b>
-</a>
-&nbsp; · &nbsp;
-just now
-<br><br>
-<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
-<b>✦ Customer-Behavior-Analysis</b>
-</a>
-&nbsp; · &nbsp;
-just now
+1 day ago
 
 
 <!-- RECENT:END -->
