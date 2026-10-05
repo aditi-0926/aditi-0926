@@ -15,6 +15,23 @@ I build end-to-end solutions that transform raw data into actionable insights an
 
 <div align="center">
 
+<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
+
+<img
+src="./assets/repos/Customer-Behavior-Analysis.svg"
+width="100%"
+alt="Customer-Behavior-Analysis"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
 <a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
 
 <img
@@ -32,12 +49,12 @@ alt="AI-Resume-Screening-System"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
+<a href="https://github.com/aditi-0926/house-price-prediction-system">
 
 <img
-src="./assets/repos/aditi-0926.svg"
+src="./assets/repos/house-price-prediction-system.svg"
 width="100%"
-alt="aditi-0926"
+alt="house-price-prediction-system"
 />
 
 </a>
@@ -66,29 +83,12 @@ alt="sentiment-service"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/reddit-sentiment-analytics">
+<a href="https://github.com/aditi-0926/CustomerPulse">
 
 <img
-src="./assets/repos/reddit-sentiment-analytics.svg"
+src="./assets/repos/CustomerPulse.svg"
 width="100%"
-alt="reddit-sentiment-analytics"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
-<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
-
-<img
-src="./assets/repos/Customer-Behavior-Analysis.svg"
-width="100%"
-alt="Customer-Behavior-Analysis"
+alt="CustomerPulse"
 />
 
 </a>
@@ -117,12 +117,12 @@ alt="Movie-recommendation-system"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/CustomerPulse">
+<a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
-src="./assets/repos/CustomerPulse.svg"
+src="./assets/repos/aditi-0926.svg"
 width="100%"
-alt="CustomerPulse"
+alt="aditi-0926"
 />
 
 </a>
@@ -134,12 +134,12 @@ alt="CustomerPulse"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/house-price-prediction-system">
+<a href="https://github.com/aditi-0926/reddit-sentiment-analytics">
 
 <img
-src="./assets/repos/house-price-prediction-system.svg"
+src="./assets/repos/reddit-sentiment-analytics.svg"
 width="100%"
-alt="house-price-prediction-system"
+alt="reddit-sentiment-analytics"
 />
 
 </a>
@@ -165,23 +165,23 @@ alt="house-price-prediction-system"
 <!-- RECENT:START -->
 
 
+<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
+<b>✦ Customer-Behavior-Analysis</b>
+</a>
+&nbsp; · &nbsp;
+3h ago
+<br><br>
 <a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
 <b>✦ AI-Resume-Screening-System</b>
 </a>
 &nbsp; · &nbsp;
-18h ago
+3h ago
 <br><br>
-<a href="https://github.com/aditi-0926/aditi-0926">
-<b>✦ aditi-0926</b>
+<a href="https://github.com/aditi-0926/house-price-prediction-system">
+<b>✦ house-price-prediction-system</b>
 </a>
 &nbsp; · &nbsp;
-1 day ago
-<br><br>
-<a href="https://github.com/aditi-0926/sentiment-service">
-<b>✦ sentiment-service</b>
-</a>
-&nbsp; · &nbsp;
-1 day ago
+3h ago
 
 
 <!-- RECENT:END -->
