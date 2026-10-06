@@ -15,12 +15,12 @@ I build end-to-end solutions that transform raw data into actionable insights an
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
+<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
 
 <img
-src="./assets/repos/Customer-Behavior-Analysis.svg"
+src="./assets/repos/AI-Resume-Screening-System.svg"
 width="100%"
-alt="Customer-Behavior-Analysis"
+alt="AI-Resume-Screening-System"
 />
 
 </a>
@@ -32,12 +32,29 @@ alt="Customer-Behavior-Analysis"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
+<a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
-src="./assets/repos/AI-Resume-Screening-System.svg"
+src="./assets/repos/aditi-0926.svg"
 width="100%"
-alt="AI-Resume-Screening-System"
+alt="aditi-0926"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
+
+<img
+src="./assets/repos/Customer-Behavior-Analysis.svg"
+width="100%"
+alt="Customer-Behavior-Analysis"
 />
 
 </a>
@@ -117,23 +134,6 @@ alt="Movie-recommendation-system"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
-
-<img
-src="./assets/repos/aditi-0926.svg"
-width="100%"
-alt="aditi-0926"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
 <a href="https://github.com/aditi-0926/reddit-sentiment-analytics">
 
 <img
@@ -165,23 +165,23 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
-<b>✦ Customer-Behavior-Analysis</b>
-</a>
-&nbsp; · &nbsp;
-3h ago
-<br><br>
 <a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
 <b>✦ AI-Resume-Screening-System</b>
 </a>
 &nbsp; · &nbsp;
-3h ago
+20h ago
 <br><br>
-<a href="https://github.com/aditi-0926/house-price-prediction-system">
-<b>✦ house-price-prediction-system</b>
+<a href="https://github.com/aditi-0926/aditi-0926">
+<b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-3h ago
+22h ago
+<br><br>
+<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
+<b>✦ Customer-Behavior-Analysis</b>
+</a>
+&nbsp; · &nbsp;
+1 day ago
 
 
 <!-- RECENT:END -->
