@@ -1,8 +1,8 @@
 ## About Me
 
-Data Science and AI-focused student working at the intersection of data, machine learning, and intelligent systems. My work spans predictive modeling, NLP, recommendation systems, data analytics, and AI-driven applications.
+I am a Data Science and AI Student specializing in the engineering of intelligent systems and production-ready machine learning solutions. My work bridges the gap between raw datasets and deployable, actionable AI architecture.
 
-I build end-to-end solutions that transform raw data into actionable insights and intelligent outcomes, covering data preparation, analysis, model development, evaluation, visualization, and deployment.
+I focus heavily on end-to-end MLOps applications, encompassing everything from data orchestration and model training to containerized API deployment and continuous evaluation.
 
 
 <div align="center">
