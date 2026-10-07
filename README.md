@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Data Science and AI Student specializing in the engineering of intelligent systems and production-ready machine learning solutions. My work bridges the gap between raw datasets and deployable, actionable AI architecture.
+Data Science and AI Student specializing in the engineering of intelligent systems and production-ready machine learning solutions. My work bridges the gap between raw datasets and deployable, actionable AI architecture.
 
 I focus heavily on end-to-end MLOps applications, encompassing everything from data orchestration and model training to containerized API deployment and continuous evaluation.
 
