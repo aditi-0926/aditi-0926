@@ -15,12 +15,12 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
+<a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
-src="./assets/repos/AI-Resume-Screening-System.svg"
+src="./assets/repos/aditi-0926.svg"
 width="100%"
-alt="AI-Resume-Screening-System"
+alt="aditi-0926"
 />
 
 </a>
@@ -32,12 +32,12 @@ alt="AI-Resume-Screening-System"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
+<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
 
 <img
-src="./assets/repos/aditi-0926.svg"
+src="./assets/repos/AI-Resume-Screening-System.svg"
 width="100%"
-alt="aditi-0926"
+alt="AI-Resume-Screening-System"
 />
 
 </a>
@@ -165,23 +165,23 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
-<b>✦ AI-Resume-Screening-System</b>
-</a>
-&nbsp; · &nbsp;
-20h ago
-<br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-22h ago
+8h ago
+<br><br>
+<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
+<b>✦ AI-Resume-Screening-System</b>
+</a>
+&nbsp; · &nbsp;
+1 day ago
 <br><br>
 <a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
 <b>✦ Customer-Behavior-Analysis</b>
 </a>
 &nbsp; · &nbsp;
-1 day ago
+2 days ago
 
 
 <!-- RECENT:END -->
