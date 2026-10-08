@@ -120,7 +120,7 @@ viewBox="0 0 1100 250"
 
     <defs>
 
-        <radialGradient id="planet5">
+        <radialGradient id="planet0">
 
             <stop
                 offset="0%"
@@ -141,7 +141,7 @@ viewBox="0 0 1100 250"
         </radialGradient>
 
         <filter
-            id="planetGlow5"
+            id="planetGlow0"
             x="-100%"
             y="-100%"
             width="300%"
@@ -174,7 +174,7 @@ viewBox="0 0 1100 250"
         r="73"
         fill="#A78BFA"
         opacity="0.32"
-        filter="url(#planetGlow5)"
+        filter="url(#planetGlow0)"
     />
 
 
@@ -199,7 +199,7 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="58"
-        fill="url(#planet5)"
+        fill="url(#planet0)"
     />
 
 
@@ -501,7 +501,7 @@ viewBox="0 0 1100 250"
 
     <defs>
 
-        <radialGradient id="planet5">
+        <radialGradient id="planet0">
 
             <stop
                 offset="0%"
@@ -522,7 +522,7 @@ viewBox="0 0 1100 250"
         </radialGradient>
 
         <filter
-            id="planetGlow5"
+            id="planetGlow0"
             x="-100%"
             y="-100%"
             width="300%"
@@ -555,7 +555,7 @@ viewBox="0 0 1100 250"
         r="73"
         fill="#A78BFA"
         opacity="0.32"
-        filter="url(#planetGlow5)"
+        filter="url(#planetGlow0)"
     />
 
 
@@ -580,7 +580,7 @@ viewBox="0 0 1100 250"
         cx="125"
         cy="125"
         r="58"
-        fill="url(#planet5)"
+        fill="url(#planet0)"
     />
 
 
@@ -630,7 +630,7 @@ viewBox="0 0 1100 250"
     font-weight="bold"
     fill="#FFFFFF"
 >
-    sentiment-service
+    content-based-movie-recommender-
 </text>
 
 
@@ -649,7 +649,7 @@ viewBox="0 0 1100 250"
         x="320"
         dy="0"
     >
-        Sentiment classification API (RoBERTa + FastAPI) with a
+        A content-based movie recommendation system built in Google Colab
     </tspan>
 
     
@@ -657,7 +657,7 @@ viewBox="0 0 1100 250"
             x="320"
             dy="25"
         >
-            Docker/GitHub
+            that
         </tspan>
         
 
@@ -672,105 +672,13 @@ viewBox="0 0 1100 250"
     font-size="13"
     fill="#D9C8F5"
 >
-    ◈ Python
+    ◈ Jupyter Notebook
 </text>
 
 
 <!-- topics -->
 
 
-
-        <rect
-            x="320"
-            y="194"
-            width="75"
-            height="26"
-            rx="13"
-            fill="#B56CFF"
-            opacity="0.28"
-        />
-
-        <text
-            x="357.5"
-            y="211"
-            text-anchor="middle"
-            font-family="Arial"
-            font-size="11"
-            fill="#F6F0FF"
-        >
-            ci-cd
-        </text>
-
-        
-
-        <rect
-            x="404"
-            y="194"
-            width="75"
-            height="26"
-            rx="13"
-            fill="#B56CFF"
-            opacity="0.28"
-        />
-
-        <text
-            x="441.5"
-            y="211"
-            text-anchor="middle"
-            font-family="Arial"
-            font-size="11"
-            fill="#F6F0FF"
-        >
-            docker
-        </text>
-
-        
-
-        <rect
-            x="488"
-            y="194"
-            width="80.5"
-            height="26"
-            rx="13"
-            fill="#B56CFF"
-            opacity="0.28"
-        />
-
-        <text
-            x="528.25"
-            y="211"
-            text-anchor="middle"
-            font-family="Arial"
-            font-size="11"
-            fill="#F6F0FF"
-        >
-            fastapi
-        </text>
-
-        
-
-        <rect
-            x="577.5"
-            y="194"
-            width="230.5"
-            height="26"
-            rx="13"
-            fill="#B56CFF"
-            opacity="0.28"
-        />
-
-        <text
-            x="692.75"
-            y="211"
-            text-anchor="middle"
-            font-family="Arial"
-            font-size="11"
-            fill="#F6F0FF"
-        >
-            natural-language-processing
-        </text>
-
-        
 
 
 <!-- update -->
@@ -783,7 +691,7 @@ viewBox="0 0 1100 250"
     font-size="12"
     fill="#D9C8F5"
 >
-    3 days ago
+    18h ago
 </text>
 
 
@@ -808,7 +716,7 @@ viewBox="0 0 1100 250"
     font-size="12"
     fill="#CFC1E9"
 >
-    2 stars
+    0 stars
 </text>
 
 

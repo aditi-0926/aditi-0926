@@ -15,6 +15,23 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
+<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
+
+<img
+src="./assets/repos/content-based-movie-recommender-.svg"
+width="100%"
+alt="content-based-movie-recommender-"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
 <a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
@@ -165,20 +182,20 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
+<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
+<b>✦ content-based-movie-recommender-</b>
+</a>
+&nbsp; · &nbsp;
+18h ago
+<br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-8h ago
+1 day ago
 <br><br>
 <a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
 <b>✦ AI-Resume-Screening-System</b>
-</a>
-&nbsp; · &nbsp;
-1 day ago
-<br><br>
-<a href="https://github.com/aditi-0926/Customer-Behavior-Analysis">
-<b>✦ Customer-Behavior-Analysis</b>
 </a>
 &nbsp; · &nbsp;
 2 days ago
