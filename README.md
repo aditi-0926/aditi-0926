@@ -15,12 +15,12 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/customer_segments">
+<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
 
 <img
-src="./assets/repos/customer_segments.svg"
+src="./assets/repos/AI-Resume-Screening-System.svg"
 width="100%"
-alt="customer_segments"
+alt="AI-Resume-Screening-System"
 />
 
 </a>
@@ -49,12 +49,12 @@ alt="aditi-0926"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
+<a href="https://github.com/aditi-0926/customer_segments">
 
 <img
-src="./assets/repos/content-based-movie-recommender-.svg"
+src="./assets/repos/customer_segments.svg"
 width="100%"
-alt="content-based-movie-recommender-"
+alt="customer_segments"
 />
 
 </a>
@@ -66,12 +66,12 @@ alt="content-based-movie-recommender-"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
+<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
 
 <img
-src="./assets/repos/AI-Resume-Screening-System.svg"
+src="./assets/repos/content-based-movie-recommender-.svg"
 width="100%"
-alt="AI-Resume-Screening-System"
+alt="content-based-movie-recommender-"
 />
 
 </a>
@@ -199,23 +199,23 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/customer_segments">
-<b>✦ customer_segments</b>
+<a href="https://github.com/aditi-0926/AI-Resume-Screening-System">
+<b>✦ AI-Resume-Screening-System</b>
 </a>
 &nbsp; · &nbsp;
-6h ago
+7h ago
 <br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-23h ago
+1 day ago
 <br><br>
-<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
-<b>✦ content-based-movie-recommender-</b>
+<a href="https://github.com/aditi-0926/customer_segments">
+<b>✦ customer_segments</b>
 </a>
 &nbsp; · &nbsp;
-2 days ago
+1 day ago
 
 
 <!-- RECENT:END -->
