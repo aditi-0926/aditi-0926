@@ -15,40 +15,6 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/CustomerPulse">
-
-<img
-src="./assets/repos/CustomerPulse.svg"
-width="100%"
-alt="CustomerPulse"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
-<a href="https://github.com/aditi-0926/customer_segments">
-
-<img
-src="./assets/repos/customer_segments.svg"
-width="100%"
-alt="customer_segments"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
 <a href="https://github.com/aditi-0926/content-based-movie-recommender-">
 
 <img
@@ -72,6 +38,40 @@ alt="content-based-movie-recommender-"
 src="./assets/repos/aditi-0926.svg"
 width="100%"
 alt="aditi-0926"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926/CustomerPulse">
+
+<img
+src="./assets/repos/CustomerPulse.svg"
+width="100%"
+alt="CustomerPulse"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926/customer_segments">
+
+<img
+src="./assets/repos/customer_segments.svg"
+width="100%"
+alt="customer_segments"
 />
 
 </a>
@@ -199,23 +199,23 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/CustomerPulse">
-<b>✦ CustomerPulse</b>
-</a>
-&nbsp; · &nbsp;
-8h ago
-<br><br>
-<a href="https://github.com/aditi-0926/customer_segments">
-<b>✦ customer_segments</b>
-</a>
-&nbsp; · &nbsp;
-8h ago
-<br><br>
 <a href="https://github.com/aditi-0926/content-based-movie-recommender-">
 <b>✦ content-based-movie-recommender-</b>
 </a>
 &nbsp; · &nbsp;
-8h ago
+17h ago
+<br><br>
+<a href="https://github.com/aditi-0926/aditi-0926">
+<b>✦ aditi-0926</b>
+</a>
+&nbsp; · &nbsp;
+23h ago
+<br><br>
+<a href="https://github.com/aditi-0926/CustomerPulse">
+<b>✦ CustomerPulse</b>
+</a>
+&nbsp; · &nbsp;
+1 day ago
 
 
 <!-- RECENT:END -->
