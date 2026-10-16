@@ -15,12 +15,12 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
+<a href="https://github.com/aditi-0926/NFL-bigdata--Bowl">
 
 <img
-src="./assets/repos/content-based-movie-recommender-.svg"
+src="./assets/repos/NFL-bigdata--Bowl.svg"
 width="100%"
-alt="content-based-movie-recommender-"
+alt="NFL-bigdata--Bowl"
 />
 
 </a>
@@ -38,6 +38,23 @@ alt="content-based-movie-recommender-"
 src="./assets/repos/aditi-0926.svg"
 width="100%"
 alt="aditi-0926"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
+
+<img
+src="./assets/repos/content-based-movie-recommender-.svg"
+width="100%"
+alt="content-based-movie-recommender-"
 />
 
 </a>
@@ -199,11 +216,11 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
-<b>✦ content-based-movie-recommender-</b>
+<a href="https://github.com/aditi-0926/NFL-bigdata--Bowl">
+<b>✦ NFL-bigdata--Bowl</b>
 </a>
 &nbsp; · &nbsp;
-17h ago
+18h ago
 <br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
@@ -211,8 +228,8 @@ alt="reddit-sentiment-analytics"
 &nbsp; · &nbsp;
 23h ago
 <br><br>
-<a href="https://github.com/aditi-0926/CustomerPulse">
-<b>✦ CustomerPulse</b>
+<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
+<b>✦ content-based-movie-recommender-</b>
 </a>
 &nbsp; · &nbsp;
 1 day ago
