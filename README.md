@@ -15,12 +15,12 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/NFL-bigdata--Bowl">
+<a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
 
 <img
-src="./assets/repos/NFL-bigdata--Bowl.svg"
+src="./assets/repos/NFL-bigdata-Bowl.svg"
 width="100%"
-alt="NFL-bigdata--Bowl"
+alt="NFL-bigdata-Bowl"
 />
 
 </a>
@@ -216,11 +216,11 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/NFL-bigdata--Bowl">
-<b>✦ NFL-bigdata--Bowl</b>
+<a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
+<b>✦ NFL-bigdata-Bowl</b>
 </a>
 &nbsp; · &nbsp;
-18h ago
+16h ago
 <br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
@@ -232,7 +232,7 @@ alt="reddit-sentiment-analytics"
 <b>✦ content-based-movie-recommender-</b>
 </a>
 &nbsp; · &nbsp;
-1 day ago
+2 days ago
 
 
 <!-- RECENT:END -->
