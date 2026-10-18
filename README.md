@@ -15,12 +15,12 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
+<a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
-src="./assets/repos/NFL-bigdata-Bowl.svg"
+src="./assets/repos/aditi-0926.svg"
 width="100%"
-alt="NFL-bigdata-Bowl"
+alt="aditi-0926"
 />
 
 </a>
@@ -32,12 +32,12 @@ alt="NFL-bigdata-Bowl"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
+<a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
 
 <img
-src="./assets/repos/aditi-0926.svg"
+src="./assets/repos/NFL-bigdata-Bowl.svg"
 width="100%"
-alt="aditi-0926"
+alt="NFL-bigdata-Bowl"
 />
 
 </a>
@@ -216,23 +216,23 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
-<b>✦ NFL-bigdata-Bowl</b>
-</a>
-&nbsp; · &nbsp;
-16h ago
-<br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-23h ago
+1 day ago
+<br><br>
+<a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
+<b>✦ NFL-bigdata-Bowl</b>
+</a>
+&nbsp; · &nbsp;
+1 day ago
 <br><br>
 <a href="https://github.com/aditi-0926/content-based-movie-recommender-">
 <b>✦ content-based-movie-recommender-</b>
 </a>
 &nbsp; · &nbsp;
-2 days ago
+3 days ago
 
 
 <!-- RECENT:END -->
