@@ -220,19 +220,19 @@ alt="reddit-sentiment-analytics"
 <b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-22h ago
+1 day ago
 <br><br>
 <a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
 <b>✦ NFL-bigdata-Bowl</b>
 </a>
 &nbsp; · &nbsp;
-3 days ago
+4 days ago
 <br><br>
 <a href="https://github.com/aditi-0926/content-based-movie-recommender-">
 <b>✦ content-based-movie-recommender-</b>
 </a>
 &nbsp; · &nbsp;
-5 days ago
+6 days ago
 
 
 <!-- RECENT:END -->
