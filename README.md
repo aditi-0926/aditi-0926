@@ -15,6 +15,23 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
+<a href="https://github.com/aditi-0926/india-pm25-air-quality-analysis">
+
+<img
+src="./assets/repos/india-pm25-air-quality-analysis.svg"
+width="100%"
+alt="india-pm25-air-quality-analysis"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
 <a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
@@ -216,20 +233,20 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
+<a href="https://github.com/aditi-0926/india-pm25-air-quality-analysis">
+<b>✦ india-pm25-air-quality-analysis</b>
+</a>
+&nbsp; · &nbsp;
+4h ago
+<br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-23h ago
+1 day ago
 <br><br>
 <a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
 <b>✦ NFL-bigdata-Bowl</b>
-</a>
-&nbsp; · &nbsp;
-1 week ago
-<br><br>
-<a href="https://github.com/aditi-0926/content-based-movie-recommender-">
-<b>✦ content-based-movie-recommender-</b>
 </a>
 &nbsp; · &nbsp;
 1 week ago
