@@ -15,12 +15,12 @@ I focus heavily on end-to-end MLOps applications, encompassing everything from d
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/india-pm25-air-quality-analysis">
+<a href="https://github.com/aditi-0926/aditi-0926">
 
 <img
-src="./assets/repos/india-pm25-air-quality-analysis.svg"
+src="./assets/repos/aditi-0926.svg"
 width="100%"
-alt="india-pm25-air-quality-analysis"
+alt="aditi-0926"
 />
 
 </a>
@@ -32,12 +32,12 @@ alt="india-pm25-air-quality-analysis"
 
 <div align="center">
 
-<a href="https://github.com/aditi-0926/aditi-0926">
+<a href="https://github.com/aditi-0926/india-pm25-air-quality-analysis">
 
 <img
-src="./assets/repos/aditi-0926.svg"
+src="./assets/repos/india-pm25-air-quality-analysis.svg"
 width="100%"
-alt="aditi-0926"
+alt="india-pm25-air-quality-analysis"
 />
 
 </a>
@@ -233,14 +233,14 @@ alt="reddit-sentiment-analytics"
 <!-- RECENT:START -->
 
 
-<a href="https://github.com/aditi-0926/india-pm25-air-quality-analysis">
-<b>✦ india-pm25-air-quality-analysis</b>
-</a>
-&nbsp; · &nbsp;
-4h ago
-<br><br>
 <a href="https://github.com/aditi-0926/aditi-0926">
 <b>✦ aditi-0926</b>
+</a>
+&nbsp; · &nbsp;
+1 day ago
+<br><br>
+<a href="https://github.com/aditi-0926/india-pm25-air-quality-analysis">
+<b>✦ india-pm25-air-quality-analysis</b>
 </a>
 &nbsp; · &nbsp;
 1 day ago
