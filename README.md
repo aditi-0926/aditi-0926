@@ -237,13 +237,13 @@ alt="reddit-sentiment-analytics"
 <b>✦ aditi-0926</b>
 </a>
 &nbsp; · &nbsp;
-23h ago
+1 day ago
 <br><br>
 <a href="https://github.com/aditi-0926/india-pm25-air-quality-analysis">
 <b>✦ india-pm25-air-quality-analysis</b>
 </a>
 &nbsp; · &nbsp;
-6 days ago
+1 week ago
 <br><br>
 <a href="https://github.com/aditi-0926/NFL-bigdata-Bowl">
 <b>✦ NFL-bigdata-Bowl</b>
