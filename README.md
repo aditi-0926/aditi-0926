@@ -249,7 +249,7 @@ alt="reddit-sentiment-analytics"
 <b>✦ NFL-bigdata-Bowl</b>
 </a>
 &nbsp; · &nbsp;
-4 weeks ago
+1 month ago
 
 
 <!-- RECENT:END -->
